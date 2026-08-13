@@ -10,16 +10,53 @@ export default function Attendance() {
     const fetchAttendance = async () => {
       try {
         setLoading(true);
-        const { data, error } = await supabase
-          .from('attendance_records')
+        const { data: students, error: stuError } = await supabase
+          .from('students')
           .select(`
-            *,
-            students (name, register_number, programs(name), branches(name))
-          `)
-          .order('percentage', { ascending: true }); // Show lowest first
+            id, name, register_number, initial_courses,
+            programs(name), branches(name)
+          `);
 
-        if (error) throw error;
-        setRecords(data || []);
+        if (stuError) throw stuError;
+
+        const { data: attData } = await supabase
+          .from('attendance_records')
+          .select('*, courses(code, name)');
+
+        let mergedRecords: any[] = [];
+
+        (students || []).forEach(student => {
+           const formalRecords = (attData || []).filter(r => r.student_id === student.id);
+           
+           if (formalRecords.length > 0) {
+              formalRecords.forEach(r => {
+                 mergedRecords.push({
+                   id: r.id,
+                   student_id: student.id,
+                   students: student,
+                   course_code: r.courses?.code || 'Unknown',
+                   course_name: r.courses?.name || 'Unknown',
+                   percentage: r.percentage || 0
+                 });
+              });
+           } else if (student.initial_courses && Array.isArray(student.initial_courses)) {
+              student.initial_courses.forEach((c: any, index: number) => {
+                 mergedRecords.push({
+                   id: `mock-${student.id}-${index}`,
+                   student_id: student.id,
+                   students: student,
+                   course_code: c.courseCode || 'Unknown',
+                   course_name: c.courseName || 'Unknown',
+                   percentage: c.attendancePercentage || 0
+                 });
+              });
+           }
+        });
+
+        // Show lowest attendance first
+        mergedRecords.sort((a, b) => a.percentage - b.percentage);
+
+        setRecords(mergedRecords);
       } catch (err) {
         console.error('Error fetching attendance:', err);
       } finally {
@@ -50,8 +87,8 @@ export default function Attendance() {
               <tr>
                 <th>Student</th>
                 <th>Program/Branch</th>
-                <th>Total Classes</th>
-                <th>Attended</th>
+                <th>Course Code</th>
+                <th>Course Name</th>
                 <th>Percentage</th>
                 <th>Status</th>
               </tr>
@@ -77,8 +114,8 @@ export default function Attendance() {
                         <div>{record.students?.programs?.name}</div>
                         <div style={{ fontSize: '0.75rem', color: 'var(--color-text-muted)' }}>{record.students?.branches?.name}</div>
                       </td>
-                      <td>{record.total_classes || 0}</td>
-                      <td>{record.attended_classes || 0}</td>
+                      <td style={{ fontWeight: 600 }}>{record.course_code?.toUpperCase()}</td>
+                      <td>{record.course_name}</td>
                       <td style={{ fontWeight: 600, color: isCritical ? 'var(--color-status-critical)' : 'inherit' }}>
                         {pct?.toFixed(2)}%
                       </td>
