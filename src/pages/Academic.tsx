@@ -10,16 +10,64 @@ export default function Academic() {
     const fetchAcademic = async () => {
       try {
         setLoading(true);
-        const { data, error } = await supabase
-          .from('academic_records')
+        const { data: students, error: stuError } = await supabase
+          .from('students')
           .select(`
-            *,
-            students (name, register_number, programs(name), branches(name))
-          `)
-          .order('cgpa', { ascending: true }); // Show lowest CGPA first for risk identification
+            id, name, register_number, initial_sgpas, initial_arrears,
+            programs(name), branches(name)
+          `);
 
-        if (error) throw error;
-        setRecords(data || []);
+        if (stuError) throw stuError;
+
+        const { data: acadData } = await supabase
+          .from('academic_records')
+          .select('*');
+
+        let mergedRecords: any[] = [];
+
+        (students || []).forEach(student => {
+           const formalRecords = (acadData || []).filter(r => r.student_id === student.id);
+           
+           if (formalRecords.length > 0) {
+              const latest = formalRecords[0];
+              mergedRecords.push({
+                 id: latest.id,
+                 student_id: student.id,
+                 students: student,
+                 cgpa: latest.cgpa,
+                 arrears: latest.arrears || 0
+              });
+           } else {
+              let cgpa = null;
+              if (student.initial_sgpas && Array.isArray(student.initial_sgpas) && student.initial_sgpas.length > 0) {
+                 const sgpas = student.initial_sgpas;
+                 const totalSgpa = sgpas.reduce((sum: number, s: any) => sum + (parseFloat(s.sgpa) || 0), 0);
+                 cgpa = totalSgpa / sgpas.length;
+              }
+              
+              const arrearsCount = student.initial_arrears && Array.isArray(student.initial_arrears) ? student.initial_arrears.length : 0;
+
+              mergedRecords.push({
+                id: `mock-${student.id}`,
+                student_id: student.id,
+                students: student,
+                cgpa: cgpa,
+                arrears: arrearsCount
+              });
+           }
+        });
+
+        // Sort by arrears (high to low), then by CGPA (low to high)
+        mergedRecords.sort((a, b) => {
+          const arrearsA = a.arrears || 0;
+          const arrearsB = b.arrears || 0;
+          if (arrearsA !== arrearsB) {
+            return arrearsB - arrearsA; // High to low
+          }
+          return (a.cgpa || 0) - (b.cgpa || 0); // Low to high
+        });
+
+        setRecords(mergedRecords);
       } catch (err) {
         console.error('Error fetching academic records:', err);
       } finally {
@@ -47,7 +95,9 @@ export default function Academic() {
       <div className="grid grid-cols-4" style={{ marginBottom: 'var(--spacing-6)' }}>
         <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-2)' }}>
           <div style={{ color: 'var(--color-text-muted)', fontSize: '0.875rem' }}>Average CGPA</div>
-          <div style={{ fontSize: '1.5rem', fontWeight: 700 }}>8.24</div>
+          <div style={{ fontSize: '1.5rem', fontWeight: 700 }}>
+            {records.length > 0 ? (records.reduce((sum, r) => sum + (r.cgpa || 0), 0) / records.length).toFixed(2) : 'N/A'}
+          </div>
         </div>
         <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-2)' }}>
           <div style={{ color: 'var(--color-text-muted)', fontSize: '0.875rem' }}>Students with Arrears</div>

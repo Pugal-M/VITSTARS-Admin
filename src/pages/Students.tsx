@@ -20,10 +20,18 @@ export default function Students() {
   const [isDeleting, setIsDeleting] = useState(false);
   const [deleteMessage, setDeleteMessage] = useState<{type: 'success' | 'error', text: string} | null>(null);
 
+  // Dropdown Menu State
+  const [openMenuId, setOpenMenuId] = useState<string | null>(null);
+
   const navigate = useNavigate();
 
   useEffect(() => {
     fetchStudents();
+    
+    // Close dropdown when clicking outside
+    const handleClickOutside = () => setOpenMenuId(null);
+    document.addEventListener('click', handleClickOutside);
+    return () => document.removeEventListener('click', handleClickOutside);
   }, []);
 
   const fetchStudents = async () => {
@@ -179,14 +187,53 @@ export default function Students() {
                         {student.status}
                       </span>
                     </td>
-                    <td>
-                      <div style={{ display: 'flex', gap: '4px' }}>
-                        <button className="btn btn-outline" style={{ padding: '4px', border: 'none' }} onClick={(e) => { e.stopPropagation(); navigate(`/students/${student.id}`); }} title="View Details">
+                    <td style={{ position: 'relative' }}>
+                      <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+                        <button 
+                          className="btn btn-outline" 
+                          style={{ padding: '4px', border: 'none' }} 
+                          onClick={(e) => { 
+                            e.stopPropagation(); 
+                            setOpenMenuId(openMenuId === student.id ? null : student.id); 
+                          }}
+                        >
                           <MoreVertical size={16} />
                         </button>
-                        <button className="btn btn-outline" style={{ padding: '4px', border: 'none', color: 'var(--color-status-critical)' }} onClick={(e) => { e.stopPropagation(); setStudentToDelete(student); }} title="Delete Student">
-                          <Trash2 size={16} />
-                        </button>
+                        
+                        {openMenuId === student.id && (
+                          <div style={{ 
+                            position: 'absolute', 
+                            right: '30px', 
+                            top: '50%', 
+                            transform: 'translateY(-50%)', 
+                            backgroundColor: 'var(--color-bg-main)', 
+                            border: '1px solid var(--color-border)', 
+                            borderRadius: 'var(--border-radius-md)', 
+                            boxShadow: 'var(--shadow-md)',
+                            zIndex: 10,
+                            display: 'flex',
+                            flexDirection: 'column',
+                            minWidth: '140px',
+                            overflow: 'hidden'
+                          }}>
+                            <button 
+                              style={{ padding: '10px 16px', textAlign: 'left', background: 'none', border: 'none', borderBottom: '1px solid var(--color-border)', cursor: 'pointer', fontSize: '0.875rem', color: 'var(--color-text-main)' }}
+                              onClick={(e) => { e.stopPropagation(); navigate(`/students/${student.id}`); setOpenMenuId(null); }}
+                              onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'var(--color-bg-secondary)'}
+                              onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'transparent'}
+                            >
+                              View Details
+                            </button>
+                            <button 
+                              style={{ padding: '10px 16px', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer', fontSize: '0.875rem', color: 'var(--color-status-critical)' }}
+                              onClick={(e) => { e.stopPropagation(); setStudentToDelete(student); setOpenMenuId(null); }}
+                              onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'var(--color-status-critical-bg)'}
+                              onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'transparent'}
+                            >
+                              Delete
+                            </button>
+                          </div>
+                        )}
                       </div>
                     </td>
                   </tr>
