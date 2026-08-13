@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { supabase } from '../lib/supabase';
-import { ArrowLeft, User, MapPin, Phone, Mail, AlertTriangle, Trash2, X, CheckCircle, Calendar, GraduationCap, Home, Users, BookOpen, Activity, FileText } from 'lucide-react';
+import { ArrowLeft, User, MapPin, Phone, Mail, AlertTriangle, Trash2, X, CheckCircle, Calendar, Home, Users, BookOpen, Activity, FileText } from 'lucide-react';
 
 export default function Student360() {
   const { id } = useParams<{ id: string }>();
