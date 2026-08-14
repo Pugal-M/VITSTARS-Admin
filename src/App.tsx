@@ -16,6 +16,8 @@ import Alerts from './pages/Alerts';
 import Reports from './pages/Reports';
 import Settings from './pages/Settings';
 import AuditLog from './pages/AuditLog';
+import GradeHistory from './pages/GradeHistory';
+import MarkDetails from './pages/MarkDetails';
 
 // Forms Module
 import FormsDashboard from './pages/Forms/FormsDashboard';
@@ -35,6 +37,8 @@ function App() {
             <Route path="students/:id" element={<Student360 />} />
             <Route path="academic" element={<Academic />} />
             <Route path="attendance" element={<Attendance />} />
+            <Route path="grade-history" element={<GradeHistory />} />
+            <Route path="mark-details" element={<MarkDetails />} />
             <Route path="leave" element={<LeaveRequests />} />
             <Route path="outing" element={<OutingRequests />} />
             <Route path="hostel" element={<Hostel />} />
