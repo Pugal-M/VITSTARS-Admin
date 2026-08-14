@@ -1,0 +1,717 @@
+[
+  {
+    "id": "62f48d49-4f4e-4344-bb25-a6e027cf75fc",
+    "student_id": "fefd4db6-0213-444b-b6c3-cf11cd7b0448",
+    "students": {
+      "name": "Pihu Gupta",
+      "register_number": "22MECH0001"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.906Z",
+    "end_date": "2026-08-17T03:16:02.906Z",
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "98eb2eab-bcb1-40ed-8977-7a9194588e87",
+    "student_id": "1b3d45e3-8e8b-486e-8973-95cb60f0e579",
+    "students": {
+      "name": "Rohan Sen",
+      "register_number": "22ECE0009"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.906Z",
+    "end_date": "2026-08-17T03:16:02.906Z",
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "e4559847-d75e-4f34-97e8-8cf05cf6b606",
+    "student_id": "816ed23b-2953-41b3-b585-8bb7a16cd4ce",
+    "students": {
+      "name": "James Pillai",
+      "register_number": "22EEE0030"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.907Z",
+    "end_date": "2026-08-17T03:16:02.907Z",
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "16241a08-c442-444a-8be1-288777bba6bb",
+    "student_id": "86ed256b-b8e9-48b2-a797-bd696b3501e1",
+    "students": {
+      "name": "Reyansh Shukla",
+      "register_number": "22CSE0031"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.907Z",
+    "end_date": "2026-08-17T03:16:02.907Z",
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "4ceebadf-c1f2-4e80-8f57-f40c2a0370fa",
+    "student_id": "87fb3a19-aeaa-4a78-894f-78cf37c6de0c",
+    "students": {
+      "name": "Dev Chatterjee",
+      "register_number": "22CSE0033"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.907Z",
+    "end_date": "2026-08-17T03:16:02.907Z",
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "9f32a332-97c2-467b-b346-ab70ec7bcc14",
+    "student_id": "0e80039c-38c7-4bf9-916b-ad8fc700f1b2",
+    "students": {
+      "name": "Kiara Jones",
+      "register_number": "22CIVIL0038"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.907Z",
+    "end_date": "2026-08-17T03:16:02.907Z",
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "6f5b3e99-d9ba-493d-98fd-c2c9a6d13655",
+    "student_id": "ba1aa740-a350-4d21-9836-c438ff90e0d6",
+    "students": {
+      "name": "Priya Bose",
+      "register_number": "22CIVIL0039"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "68852856-af46-4b80-a069-ebdfa05e3ef1",
+    "student_id": "ca9a51e5-7f7d-439a-bfd6-d2a7a0dafb3b",
+    "students": {
+      "name": "Rohan Banerjee",
+      "register_number": "22CSE0045"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "e081975f-58df-44dd-aff0-0c6e56ec6c12",
+    "student_id": "40160f92-0496-4050-ad92-6db47f1fb549",
+    "students": {
+      "name": "Priya Banerjee",
+      "register_number": "22CSE0048"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f4e9f939-aa74-4d6d-a08f-b2f7a7364b77",
+    "student_id": "87dcdcb3-d21c-46a2-a8d9-2b443c94fd50",
+    "students": {
+      "name": "Avni Singh",
+      "register_number": "22CSE0051"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b97c5ba5-f4f5-48b0-8690-692449d50d56",
+    "student_id": "9372aa41-275e-48fb-8139-c362f5bd4808",
+    "students": {
+      "name": "Avni Verma",
+      "register_number": "22CIVIL0055"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "0f8a7ba8-f381-4f6c-b7ee-d54c015c0e95",
+    "student_id": "2d68c42c-b5c1-4afd-842b-45698df73d35",
+    "students": {
+      "name": "Yash Rao",
+      "register_number": "22ECE0057"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "81edfc0f-f791-47b5-9b32-9f34951cc6b5",
+    "student_id": "6a3e2128-5806-4677-83b5-94557863026b",
+    "students": {
+      "name": "Kavya Roy",
+      "register_number": "22EEE0062"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f8b44f98-29bf-49bf-bd14-d6c7edd03f55",
+    "student_id": "33ad30e4-9dbb-4d14-85bc-4c6788d0c766",
+    "students": {
+      "name": "Ishaan Johnson",
+      "register_number": "22ECE0065"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "a2a7c188-3d8c-42e5-b7f7-10bea6f1ec9e",
+    "student_id": "911ddf26-906c-4369-bd7c-9eefa01ccb9a",
+    "students": {
+      "name": "Atharv Shukla",
+      "register_number": "22MECH0068"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3169e88f-55f4-419d-8d97-e6c9fdc49bc4",
+    "student_id": "289dc3d9-071f-4e5b-97d9-c6e57ffe33ae",
+    "students": {
+      "name": "Riya Tiwari",
+      "register_number": "22MECH0070"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "bbc6604f-0278-4990-95b8-e5d94713eef1",
+    "student_id": "f2ef703e-6f7c-4caa-9810-5a2e9c5729fb",
+    "students": {
+      "name": "Jessica Mishra",
+      "register_number": "22MECH0071"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "1903221d-c37b-440e-84e7-c182fbc35ae9",
+    "student_id": "3b4bf572-5bc1-4d44-bd2d-bcc7c6885d04",
+    "students": {
+      "name": "Sara Patil",
+      "register_number": "22ECE0077"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "094710c8-7c5c-40cf-8f5e-20262a05e9e8",
+    "student_id": "f37fe8fa-c891-4e81-be25-f6e731468281",
+    "students": {
+      "name": "Aadhya Deshmukh",
+      "register_number": "22CIVIL0087"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.908Z",
+    "end_date": "2026-08-17T03:16:02.908Z",
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "5552447f-340a-4d67-ba1b-a3c2004c1029",
+    "student_id": "2fc613d2-0c1e-4efd-8741-032673aed8c4",
+    "students": {
+      "name": "Shruti Tiwari",
+      "register_number": "22EEE0098"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.909Z",
+    "end_date": "2026-08-17T03:16:02.909Z",
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "645d2060-5612-46c7-b902-3fe28b5e605b",
+    "student_id": "32fa093c-cae0-46f5-bf2d-c92724ba5ab3",
+    "students": {
+      "name": "Prisha Chakraborty",
+      "register_number": "22CSE0113"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.909Z",
+    "end_date": "2026-08-17T03:16:02.909Z",
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "7a7ed636-4a8d-4726-90d5-4b1c2824ce9c",
+    "student_id": "e27a9161-7b97-4a3a-b06a-84968104fa39",
+    "students": {
+      "name": "Ashley Johnson",
+      "register_number": "22MECH0116"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.910Z",
+    "end_date": "2026-08-17T03:16:02.910Z",
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "c6219bcb-9932-4764-a887-fbfeef1cc7f5",
+    "student_id": "4356f75a-5e3d-4079-a7a3-05ba0ecea45b",
+    "students": {
+      "name": "Ayush Rao",
+      "register_number": "22EEE0120"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.910Z",
+    "end_date": "2026-08-17T03:16:02.910Z",
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "191e8847-7146-4c97-84af-c99221ed1731",
+    "student_id": "863d5a47-d4d4-4038-a488-e0f7217620c9",
+    "students": {
+      "name": "Aryan Dwivedi",
+      "register_number": "22MECH0136"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.911Z",
+    "end_date": "2026-08-17T03:16:02.911Z",
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "63fa0faa-2d76-402b-9119-c5f8f3662aa4",
+    "student_id": "074c9f93-9c7c-4a0f-b6e0-af51af9eabba",
+    "students": {
+      "name": "Ananya Trivedi",
+      "register_number": "22ECE0137"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.911Z",
+    "end_date": "2026-08-17T03:16:02.911Z",
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "ae5a3560-4ad7-44f0-8fbe-d1f5c6a56c56",
+    "student_id": "644c2935-7909-48a8-81a9-11edbc791c29",
+    "students": {
+      "name": "Emily Roy",
+      "register_number": "22ECE0138"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.911Z",
+    "end_date": "2026-08-17T03:16:02.911Z",
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "e0d98de5-6e5e-4320-ad5c-a3e96dc281ef",
+    "student_id": "cec4ce9b-5ec8-48af-8095-5b03cf17ef5f",
+    "students": {
+      "name": "Pari Mishra",
+      "register_number": "22ECE0139"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.911Z",
+    "end_date": "2026-08-17T03:16:02.911Z",
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "36e3c66e-f0a9-488d-9c6a-3025f087def5",
+    "student_id": "4a17c3b0-f74a-47da-91aa-e27b4ff0a738",
+    "students": {
+      "name": "Kavya Iyer",
+      "register_number": "22CSE0149"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.911Z",
+    "end_date": "2026-08-17T03:16:02.911Z",
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "51d19d1e-684f-42b9-8c42-66f16414dc78",
+    "student_id": "1e6aca77-41bf-4491-b917-9b36a4ca4849",
+    "students": {
+      "name": "Myra Brown",
+      "register_number": "22CIVIL0153"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "4ca260d5-d2ff-4902-adf4-3549d4f97a4d",
+    "student_id": "99f7b70f-5359-4090-be57-9455d7179a67",
+    "students": {
+      "name": "Prisha Banerjee",
+      "register_number": "22MECH0157"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "22e84c8e-1a5c-4c4d-8759-2936908cee04",
+    "student_id": "3984ad83-9d73-41da-8b4e-01adab49c2a2",
+    "students": {
+      "name": "Priya Pillai",
+      "register_number": "22IT0161"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "eccaaf1e-604d-4262-9f6b-6384508fd789",
+    "student_id": "2e8e3c91-8fcd-4d86-afff-f26d491d8f0d",
+    "students": {
+      "name": "Ayush Rao",
+      "register_number": "22MECH0169"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "cdf9c609-0bb8-452e-a4f0-4a1764d89fd4",
+    "student_id": "b9e2f8fd-1f5d-4834-b18e-d9a177ab7ef9",
+    "students": {
+      "name": "Ira Iyer",
+      "register_number": "22ECE0170"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "2ebee4b4-c90b-4245-87c2-1ade8f1e72fd",
+    "student_id": "75521da4-09f7-46e2-8fe0-e38367eb038e",
+    "students": {
+      "name": "Sara Reddy",
+      "register_number": "22EEE0171"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.912Z",
+    "end_date": "2026-08-17T03:16:02.912Z",
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "6db91f4b-d00d-4872-90db-635a54db13f0",
+    "student_id": "6ac1b328-56d9-4256-9333-f49f06a1070e",
+    "students": {
+      "name": "Ayush Martinez",
+      "register_number": "22IT0178"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "66b0fbcc-6a53-4bec-a834-83b1e2befd65",
+    "student_id": "0b1f3dee-48a9-4fc6-9344-df723b437aaa",
+    "students": {
+      "name": "Shaurya Roy",
+      "register_number": "22ECE0183"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "81991667-538b-419f-8033-9bf948af9c39",
+    "student_id": "392c9aa8-f3ef-442f-926e-ad9fbb81f034",
+    "students": {
+      "name": "Myra Pandey",
+      "register_number": "22CSE0184"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "83da48d2-9033-4429-834e-1e4734ff7030",
+    "student_id": "0f2e5028-7eb6-45a7-9720-e4483beace5f",
+    "students": {
+      "name": "Avni Iyer",
+      "register_number": "22ECE0189"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "27b42b9d-bb13-4f17-ad8c-7e7a8b322b2b",
+    "student_id": "b0d9ea15-4688-4122-a876-74c75052ffef",
+    "students": {
+      "name": "Riya Davis",
+      "register_number": "22EEE0200"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "3a0a0d2f-b83d-4e82-bdcc-f4e9a03fb6a3",
+    "student_id": "78bbfa38-c991-41ac-be06-beca82e353e4",
+    "students": {
+      "name": "Pihu Trivedi",
+      "register_number": "22EEE0202"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "36f21e50-81f4-40be-9111-5f24572b343a",
+    "student_id": "53e5f1bf-d414-498f-9c61-7505ce629a5d",
+    "students": {
+      "name": "Yash Verma",
+      "register_number": "22ECE0203"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.913Z",
+    "end_date": "2026-08-17T03:16:02.913Z",
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "a90900a4-1606-45da-bf89-a2c0fed47cfa",
+    "student_id": "13cb4495-002d-426b-98e8-52b6eba2b3f1",
+    "students": {
+      "name": "Kiara Rao",
+      "register_number": "22EEE0228"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a3d7edf4-f503-4369-a122-62075226836d",
+    "student_id": "6fb1afa7-c646-4ec8-a950-2ebb660cd71f",
+    "students": {
+      "name": "Neha Reddy",
+      "register_number": "22CSE0229"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "949aed10-aa7c-4f75-821a-cb8baf700944",
+    "student_id": "f0eab2ea-0318-42ef-9212-0dbe96614f95",
+    "students": {
+      "name": "Aarav Tiwari",
+      "register_number": "22CIVIL0230"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "bd546e78-45b0-4bc1-80c4-825db9fe3f51",
+    "student_id": "11052fc3-43dc-4f7f-b28e-3c123833ddac",
+    "students": {
+      "name": "Ananya Deshmukh",
+      "register_number": "22EEE0235"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "553575b4-6fde-4cb7-bd7c-c7a33433ff5d",
+    "student_id": "6c817983-25cb-4e82-a4d1-bac098eccad6",
+    "students": {
+      "name": "Arjun Sen",
+      "register_number": "22CIVIL0242"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e364ba38-b994-44df-b2ec-d6e73ef8ab9b",
+    "student_id": "fe93b38f-81f8-4905-9e83-30c52c122e5a",
+    "students": {
+      "name": "Ayaan Dwivedi",
+      "register_number": "22IT0244"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "dead7233-a6db-4c3b-87e3-15cd8a515560",
+    "student_id": "9ac9d712-e34b-41dc-8b09-ada3077f9379",
+    "students": {
+      "name": "Kabir Davis",
+      "register_number": "22MECH0248"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "080d0a63-0f38-4554-8723-ebc9d22534a1",
+    "student_id": "0284d2ae-c3eb-4cb0-83ea-4f17d4c97afd",
+    "students": {
+      "name": "Kartik Sharma",
+      "register_number": "22EEE0267"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0d1b0b11-74c4-4e14-a24a-d0ad264c790f",
+    "student_id": "e8cec2d3-e68d-4e7f-9f52-efc8f41645bb",
+    "students": {
+      "name": "Riya Tiwari",
+      "register_number": "22MECH0269"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "aac86471-e4dc-4256-9c8f-4d820353760d",
+    "student_id": "12ffa12e-9dae-4df9-b8ba-dd14f21c2a8d",
+    "students": {
+      "name": "Sarah Menon",
+      "register_number": "22MECH0271"
+    },
+    "reason": "Family event",
+    "status": "submitted",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6b1bb4a4-7cb3-491c-ba0f-18984a6fd332",
+    "student_id": "7acaa451-5470-4d59-a23c-32e8400d9e6c",
+    "students": {
+      "name": "Jessica Shukla",
+      "register_number": "22CIVIL0272"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "5959f154-4b23-48dd-80f3-2fa1a7d5bd3b",
+    "student_id": "7e1457b4-138e-41ae-9574-0b85ce8331f9",
+    "students": {
+      "name": "Ayaan Mishra",
+      "register_number": "22IT0282"
+    },
+    "reason": "Family event",
+    "status": "rejected",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "af9ab10b-33d4-490f-a33f-99fc78b9ec08",
+    "student_id": "a3c4c666-2ea2-411f-88f3-6027aa8ff4bd",
+    "students": {
+      "name": "Aryan Joshi",
+      "register_number": "22IT0284"
+    },
+    "reason": "Family event",
+    "status": "approved",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c9129f71-f154-4443-8ca0-a1d42e729119",
+    "student_id": "d0311dc0-cb92-4b64-88f2-1e901641a51b",
+    "students": {
+      "name": "Kiara Chakraborty",
+      "register_number": "22CSE0285"
+    },
+    "reason": "Family event",
+    "status": "under_review",
+    "start_date": "2026-08-14T03:16:02.914Z",
+    "end_date": "2026-08-17T03:16:02.914Z",
+    "created_at": "2026-08-14T03:16:02.914Z"
+  }
+]

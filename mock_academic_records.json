@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "6f1762bb-6736-448f-ad6d-e337aa0e0c8e",
+    "student_id": "fefd4db6-0213-444b-b6c3-cf11cd7b0448",
+    "cgpa": 9.51,
+    "arrears": 3,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.905Z"
+  },
+  {
+    "id": "284870c6-5832-480f-86ee-4c04e0ced396",
+    "student_id": "d7794709-309b-441c-805a-103011bdcdb5",
+    "cgpa": 6.37,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "2c0e027a-244c-4664-acd3-83fb8253d095",
+    "student_id": "9bcb2040-983d-4f3d-bf05-72e39761824c",
+    "cgpa": 8.51,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "bba8f7a3-7a17-4dc5-b6f2-1b95449c81bd",
+    "student_id": "0d218be6-18bc-4476-ac97-43b6e0a1481b",
+    "cgpa": 8.63,
+    "arrears": 2,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "fcc09002-6593-43ec-8ff4-bb7cf5ebbb81",
+    "student_id": "6c0ca735-f375-4dfb-accf-ecb81be5451e",
+    "cgpa": 9.04,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "dc58c012-5d65-4e68-9243-a1b38883535d",
+    "student_id": "74cb604a-2dd0-466c-9185-b943f58ade5f",
+    "cgpa": 6.28,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "9a0b2988-dc1d-45a5-b90d-817c2fa908e6",
+    "student_id": "fa4f0701-d845-4aa4-b65a-3dfa24c51b0d",
+    "cgpa": 8.49,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "8735530d-8962-4f7f-a654-e6371ae07162",
+    "student_id": "2616dda1-3676-4db7-a58a-90cb9b5fd54e",
+    "cgpa": 7.15,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "4355331f-e751-40de-b0a1-6073a7aec11c",
+    "student_id": "1b3d45e3-8e8b-486e-8973-95cb60f0e579",
+    "cgpa": 6.75,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "719efe64-afd5-4cae-8537-193fad333f7c",
+    "student_id": "add742da-a870-4096-a192-0781246e6bc3",
+    "cgpa": 8,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "d09ea6d8-a26a-45c9-b4c6-93697448376c",
+    "student_id": "a6fcac6d-bf56-4e61-a61d-fc7fd1dfc3fe",
+    "cgpa": 8.66,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "2a05d861-f0b4-4dfb-8674-0beeab067892",
+    "student_id": "be3aeca7-e005-4c45-8148-b64f3f173a21",
+    "cgpa": 8.33,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "58e18474-d680-4873-b187-2b2fb7850bb9",
+    "student_id": "ae18fab5-7a13-4120-94ce-ec2ddf923fea",
+    "cgpa": 7.14,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "86fc4e84-d47d-4c3b-bd4f-4b1ed46204f5",
+    "student_id": "ea177012-b341-4861-991e-d7ad8b2578ee",
+    "cgpa": 8.99,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "5e67293d-4cb7-48b7-928b-86e14ef0aa27",
+    "student_id": "8fb26f20-8468-477a-8fce-1305b95b0a54",
+    "cgpa": 8.93,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "92102e56-3d9f-451b-8b07-de871efd3bba",
+    "student_id": "3b6d7a0a-6e5a-453a-b35e-e065dc479399",
+    "cgpa": 7.12,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "c95a6bf9-4b0b-4bac-8f40-76421c61e210",
+    "student_id": "0d48d179-6b70-4557-b064-e2742d31e48c",
+    "cgpa": 8.56,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "946c42e4-bc93-44d8-9691-52fbcf55b34f",
+    "student_id": "50c4b1eb-c967-42a4-8464-788766f5e67f",
+    "cgpa": 6.32,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "de9db44c-c8bc-4240-9365-4ad9ceb2f94d",
+    "student_id": "08d5b949-8e7b-4c16-8de8-46eb07ee9ad5",
+    "cgpa": 9.57,
+    "arrears": 3,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "10cc9b40-81ee-4314-8811-31332eda174b",
+    "student_id": "2369dcd6-c1a3-4989-97b9-5d2a4adfaffd",
+    "cgpa": 6.35,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "874a7f8f-f400-4018-a3e8-73511fdb96b9",
+    "student_id": "4a209d8b-7fd2-42ac-bbcb-83e1edc6de61",
+    "cgpa": 6.8,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "c2d9b69b-54a7-4e09-bf05-2af398a19b3e",
+    "student_id": "00331d0b-5edc-4262-8ff7-11119fbdb737",
+    "cgpa": 8.12,
+    "arrears": 1,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "5c7e14a9-abd9-4f6d-b5a0-1226a288a7fd",
+    "student_id": "03c5ccd2-eb8e-4d0f-9172-387644b6d9ed",
+    "cgpa": 6.52,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "8589f86e-928e-400f-8ee6-950940a19fcc",
+    "student_id": "4771c415-f5c1-44d0-b454-b6d8cab689bc",
+    "cgpa": 8.68,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "e42a75dd-24cc-4079-a2e1-f527f265d565",
+    "student_id": "e2efa985-ed27-41e2-ae48-020fba23d704",
+    "cgpa": 9.8,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "4f83861e-f062-4a7b-9453-23de7f124b63",
+    "student_id": "8b023e19-ac2f-42b0-a680-8eb04bcc4421",
+    "cgpa": 7.89,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "50eacf88-ec18-4179-b98a-d32a06a7f05c",
+    "student_id": "6b23f39f-57e3-498f-a774-f25283466b24",
+    "cgpa": 6.59,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "4a2d354f-86d5-4965-9662-425ab7114394",
+    "student_id": "0d30230e-e70e-431b-a1df-533805bfc9f9",
+    "cgpa": 7.92,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "e34817e6-b5af-4020-899c-95e3c06daa08",
+    "student_id": "7324c597-360b-42d1-83c6-44f423dc0322",
+    "cgpa": 7.52,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "c458bcd6-2474-4e38-828c-3eac662b1de9",
+    "student_id": "816ed23b-2953-41b3-b585-8bb7a16cd4ce",
+    "cgpa": 6.06,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "84bb3b7e-64ff-4621-915f-f56359f7b598",
+    "student_id": "86ed256b-b8e9-48b2-a797-bd696b3501e1",
+    "cgpa": 8.53,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "0cb776df-0ea1-4b8d-9842-b4b5547e551a",
+    "student_id": "edc25104-0673-4336-afd6-c1a57c7e9401",
+    "cgpa": 7.53,
+    "arrears": 3,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "db51f3fc-f0a5-4668-9b7d-4e8faf074f99",
+    "student_id": "87fb3a19-aeaa-4a78-894f-78cf37c6de0c",
+    "cgpa": 6.91,
+    "arrears": 3,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "e03d68d4-8fe2-4d79-8d3b-d69da63d5d99",
+    "student_id": "6f80ea1d-b284-4bf2-9e5a-023ba6c4ac6b",
+    "cgpa": 8.32,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "fd7470e3-6bd9-4132-98f8-9cea85db8afe",
+    "student_id": "0df2ec64-d896-4d8d-838f-ca7548d5fbf5",
+    "cgpa": 9.49,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "80d74872-4891-4440-9696-e0f1523e0b23",
+    "student_id": "f6b50e65-7bed-41f3-905c-6f68be6f6e9e",
+    "cgpa": 6.78,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "fd6d8396-cc7e-47eb-91be-1505a635e3fe",
+    "student_id": "7a41dec7-99b1-4e88-8543-2accabd6594b",
+    "cgpa": 9.38,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "3158f65d-2a71-4af1-a2bc-2a4ff307783c",
+    "student_id": "0e80039c-38c7-4bf9-916b-ad8fc700f1b2",
+    "cgpa": 7.89,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "64e3b286-ee60-4c37-a584-2b907be0945c",
+    "student_id": "ba1aa740-a350-4d21-9836-c438ff90e0d6",
+    "cgpa": 7.51,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f95f6121-1648-4e78-a554-7b5fde3d79da",
+    "student_id": "426c5054-40e9-4b15-ae74-2d6000a52c48",
+    "cgpa": 9.75,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "d643a552-4c00-461f-b2c4-6da6ea8d7905",
+    "student_id": "dadeafaf-04ab-4fcb-88d2-d2ec02556a9f",
+    "cgpa": 7.58,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "9ced4992-0f8f-4927-a637-3cc2a072bf95",
+    "student_id": "d7d7bd92-812f-4b23-bc92-e2292834e1df",
+    "cgpa": 9.35,
+    "arrears": 1,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f9ca530a-563c-4df2-9216-092797bdeded",
+    "student_id": "a07699f1-b1a4-4143-9357-b88e9a6dbfd4",
+    "cgpa": 9.35,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "a2c6f7db-663d-425c-869c-ce994c193b2a",
+    "student_id": "0d13fc60-bda7-40ed-9304-1970e53e2193",
+    "cgpa": 8.61,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "90a19680-342f-4db9-a883-957da8931a64",
+    "student_id": "ca9a51e5-7f7d-439a-bfd6-d2a7a0dafb3b",
+    "cgpa": 6.74,
+    "arrears": 3,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f1ae646d-1613-4412-bb6f-e1e67e19dbd2",
+    "student_id": "54086ab6-07aa-4eba-837e-ae1aff6a13e2",
+    "cgpa": 8.1,
+    "arrears": 1,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8c7b4d5b-de87-41aa-a20c-e6bc41de0a0e",
+    "student_id": "dc4e7fae-ffb7-4735-bd60-bd258de268a4",
+    "cgpa": 8.97,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "810d25a4-1180-4b47-a48c-cf6d98a01d7d",
+    "student_id": "40160f92-0496-4050-ad92-6db47f1fb549",
+    "cgpa": 7.73,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "d405cb92-9186-4be1-b592-f88d497c512f",
+    "student_id": "9a65dca0-fc1d-4408-874d-e02d3e6fafb3",
+    "cgpa": 8.04,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b2d56542-110a-463b-b615-3262b76fc46e",
+    "student_id": "fc4323b8-9586-42a8-8267-3c606ff8d579",
+    "cgpa": 8.93,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "1b25b669-f144-48e8-942a-b14970946fc3",
+    "student_id": "87dcdcb3-d21c-46a2-a8d9-2b443c94fd50",
+    "cgpa": 6.83,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "2fd269f4-fce1-4c0e-89df-9027d12701de",
+    "student_id": "154bd370-204b-47f8-871a-7f5c2add8631",
+    "cgpa": 8.67,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "715083ee-a3d7-4cd5-a136-c1e87fb62ef2",
+    "student_id": "dabb6252-e849-4761-bd76-992bc0607da3",
+    "cgpa": 6.69,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "fad9d019-47fe-485f-b259-f297c4e8698a",
+    "student_id": "f943dae6-326d-478f-a34f-7659376af35f",
+    "cgpa": 8.45,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "a7b9ce0f-d75a-4d62-a7cc-d3e7a7db27f4",
+    "student_id": "9372aa41-275e-48fb-8139-c362f5bd4808",
+    "cgpa": 7.57,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "23b3f650-6bf8-452b-b2f8-de23ce324284",
+    "student_id": "5038e8af-e5af-4dc4-9422-b1ba77365330",
+    "cgpa": 8.67,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "fb0c64f6-70cc-471e-839b-2e933e0cde50",
+    "student_id": "2d68c42c-b5c1-4afd-842b-45698df73d35",
+    "cgpa": 6.79,
+    "arrears": 3,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b3e28066-af29-4ad5-8b37-b4fdb7a63bc7",
+    "student_id": "4406c033-7b81-419c-ad32-c11276c97a05",
+    "cgpa": 6.24,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "105f07b1-a91c-433a-9eef-06dbcf652448",
+    "student_id": "12f41be2-7ddb-4343-b48e-674ced6f6fff",
+    "cgpa": 6.72,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "cf0ca264-be5d-4081-98e3-c55de6f2f80f",
+    "student_id": "f09816ac-7761-4944-9f61-b520e3452367",
+    "cgpa": 6.38,
+    "arrears": 2,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "7a462bb4-b9f6-4fd3-a0ee-bb612f1abaaf",
+    "student_id": "829ad37f-f2b5-41a6-99dc-273fbaa17e53",
+    "cgpa": 7.47,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "944702c1-ecaf-456a-8641-8ac1a16b72f0",
+    "student_id": "6a3e2128-5806-4677-83b5-94557863026b",
+    "cgpa": 7.22,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "28b1dde7-a16e-4e9c-8d67-3324619745b8",
+    "student_id": "df5da998-99e2-4349-a3cd-ca22f663461f",
+    "cgpa": 8.3,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b54e6ca2-2352-4d2a-9e07-673cf1fed260",
+    "student_id": "d8b4fe83-efee-4396-be13-18cce04d1562",
+    "cgpa": 9.25,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "1afe14ee-0193-4e49-abf7-6c12bf5f37c5",
+    "student_id": "33ad30e4-9dbb-4d14-85bc-4c6788d0c766",
+    "cgpa": 8.22,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f8f7f1bf-2184-4563-9beb-0e013e8b0cd4",
+    "student_id": "457d8eb1-825c-4d76-a8f5-8adee7ab46cc",
+    "cgpa": 9.53,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "cef73c49-2cd0-4009-98cb-3367a3255df1",
+    "student_id": "50c1a78d-6b1d-48b9-96d3-3a3217be6cbb",
+    "cgpa": 7.28,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8cf8ba84-9c17-4465-888c-694f04965d6c",
+    "student_id": "911ddf26-906c-4369-bd7c-9eefa01ccb9a",
+    "cgpa": 7.07,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8204a1d9-883b-466a-83aa-ddd1299983e3",
+    "student_id": "199cee83-00ad-4362-9c46-2362810fae9e",
+    "cgpa": 9.04,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "19e3fe83-b515-4e82-a00b-4c05f671b3d7",
+    "student_id": "289dc3d9-071f-4e5b-97d9-c6e57ffe33ae",
+    "cgpa": 8.53,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3fb6858e-531d-4463-9a06-4417466f3780",
+    "student_id": "f2ef703e-6f7c-4caa-9810-5a2e9c5729fb",
+    "cgpa": 7.63,
+    "arrears": 2,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "7c02edb7-ba23-4ad1-9ca9-60919a2c9002",
+    "student_id": "1a42f7ff-a617-43ba-9331-7cfdf9c569c2",
+    "cgpa": 6.5,
+    "arrears": 2,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "52d3db48-baab-4922-a433-7ac92cc382eb",
+    "student_id": "adbb1e18-3452-466b-9792-84a5da66ec2d",
+    "cgpa": 7.47,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "cd193632-b79c-47d1-8335-ea304a19da7b",
+    "student_id": "45b2866f-b87c-4b85-8b1d-63e51a08f2c9",
+    "cgpa": 7.49,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "5fef19de-a794-4de0-a9f7-d0a64c058182",
+    "student_id": "2d2002fc-ce41-4250-9f72-be70eb9912e2",
+    "cgpa": 9.58,
+    "arrears": 2,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "54f2d94b-878c-4c94-95e8-01e86aebdbac",
+    "student_id": "3282cf8d-4de1-4e2b-ab78-a7588a7d9ae9",
+    "cgpa": 7.55,
+    "arrears": 1,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "11787144-edea-418a-91f9-c9eaa164d5ee",
+    "student_id": "3b4bf572-5bc1-4d44-bd2d-bcc7c6885d04",
+    "cgpa": 7.62,
+    "arrears": 2,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "d9daef81-5213-463b-9c46-969f711eca96",
+    "student_id": "235682d6-25fc-41f9-bc4b-cf295ebacb5e",
+    "cgpa": 7.89,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3a08216c-b1b2-48be-93e4-97ca9d3aa2e2",
+    "student_id": "1355e8bd-9c26-40a2-b487-eb09dc583f32",
+    "cgpa": 8.39,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "7c70c489-e997-4500-b935-b4a6d6170993",
+    "student_id": "dfe80e55-3ec7-45fc-af66-3f4b54427c43",
+    "cgpa": 6.65,
+    "arrears": 1,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "e36f5727-49fc-414d-88fa-5af458a7f3c4",
+    "student_id": "1171bddf-ec1d-4684-9635-23569533210b",
+    "cgpa": 8.58,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "606aa6e9-1a48-4a2a-96ed-eaddd420110c",
+    "student_id": "930f788a-cbef-4100-a3bf-074ce2b34b59",
+    "cgpa": 6.67,
+    "arrears": 1,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3cf6b1cd-20d5-4fb9-8838-e512177b2337",
+    "student_id": "43b7feea-b3f7-4b0f-a53f-0fe18fd173fd",
+    "cgpa": 8.83,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "069db1c5-664a-470f-a02a-66c62f3f3d77",
+    "student_id": "13b3cebb-6565-4a90-b0e3-c78b35c30a53",
+    "cgpa": 9.47,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "6d0d82f6-09c1-4d41-bfb6-6f12cb195b09",
+    "student_id": "388a06cb-983f-49f3-ad0c-601528f09d6d",
+    "cgpa": 7.67,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "7075d480-ddd1-4110-994b-e52077d7641a",
+    "student_id": "ecbf8bcb-c855-4251-b687-da05f7128630",
+    "cgpa": 8.57,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "6903f96d-eabd-4efa-80aa-6ff5f156faca",
+    "student_id": "f37fe8fa-c891-4e81-be25-f6e731468281",
+    "cgpa": 8.88,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3662eb0d-b0d9-41f9-a2e6-1a574932616d",
+    "student_id": "0ea77138-ef78-4ba0-8e4c-fa7277e961d0",
+    "cgpa": 7.49,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "7b9bea49-6f78-4b79-9b46-d9e83f45950f",
+    "student_id": "fe0bc03d-5849-4a77-9ebd-e2c119b7d977",
+    "cgpa": 6.21,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "9fcbaa45-9077-456c-9549-55fd85d1fc10",
+    "student_id": "7debea1f-38b1-408f-b192-f50b6fa3ab19",
+    "cgpa": 8.76,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "475cad04-5e12-453a-a207-0e7befe0618e",
+    "student_id": "2de11d9c-b4aa-490c-8914-cce0ff19a725",
+    "cgpa": 8.33,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8ab6ad2b-8547-47b0-8803-ff9ba29ea32f",
+    "student_id": "6336f1f0-7072-4bd3-ae8c-e59078600a28",
+    "cgpa": 9.69,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "4026a750-6d9c-42ca-b292-926cc34dc497",
+    "student_id": "1fcb3fe5-8717-4c4d-8287-b5dafb0406a6",
+    "cgpa": 8.92,
+    "arrears": 3,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "a7db76b2-d0e5-47aa-b513-f2fcf4ac556a",
+    "student_id": "51c044ff-fcca-4663-b877-91e089923b0a",
+    "cgpa": 8.28,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b3c3833c-e8b7-4965-8b15-4e16342075e4",
+    "student_id": "840264f0-7415-4f0b-a6c1-90ec9cf3cb31",
+    "cgpa": 9.34,
+    "arrears": 1,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "2580990d-305d-4b06-89b4-8d52c6caefbf",
+    "student_id": "96d84653-b35e-4ee4-94cf-bd5f869f0480",
+    "cgpa": 8.07,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "4555ecaa-0bce-41da-b120-c23ae457556d",
+    "student_id": "fa3cdaef-15bb-4a48-a98d-db2b59ed0f8a",
+    "cgpa": 7.46,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "7efa71aa-ed44-42cb-a369-07c5f0ebc831",
+    "student_id": "2fc613d2-0c1e-4efd-8741-032673aed8c4",
+    "cgpa": 6.9,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "af0973cd-9f83-4b55-b735-72b3e17a8f26",
+    "student_id": "199b5be2-6fcf-456b-9d82-57672699af92",
+    "cgpa": 9.52,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "fc682f6c-a1c0-4fcc-a6da-3811ae5615fc",
+    "student_id": "93c1b428-1419-4f36-8166-fbac4a8384c1",
+    "cgpa": 7.27,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "62cba0b0-34aa-4636-acd2-b1fb34012cb5",
+    "student_id": "f935a93e-8461-431c-ad55-562e4d008265",
+    "cgpa": 7.58,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "8aa7d2ec-1d61-492a-a858-8fd4d5690107",
+    "student_id": "743200ad-f50e-4c86-be13-38b2a41a069d",
+    "cgpa": 6.17,
+    "arrears": 3,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "0735dc0a-838d-450c-b934-05a436747d7d",
+    "student_id": "74f0a60a-13d8-4b84-af58-1e588e691720",
+    "cgpa": 7.79,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "8fe413e6-7355-48e5-af5d-088e1904f9a7",
+    "student_id": "148dd356-b5ab-4b02-93f7-8178e2ae9bf5",
+    "cgpa": 8.99,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "65625602-be5d-4db3-8a3f-0c9f37b06ba1",
+    "student_id": "0af23d4d-970e-4dae-8697-7a9865b38bcc",
+    "cgpa": 8.61,
+    "arrears": 2,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "23b04223-9c88-4297-94eb-007ffcc4e8b6",
+    "student_id": "18d945ab-f953-4849-8924-70610e04e193",
+    "cgpa": 7.83,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "c5a796bd-5422-43c1-8095-3b470f424533",
+    "student_id": "03efbb3b-6d91-4dc4-bc42-a26b2b1f3b0e",
+    "cgpa": 6.53,
+    "arrears": 3,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "6ac8dac3-f94b-44b0-ad04-c86137bab4ba",
+    "student_id": "adc881e3-503a-40f0-a21d-0c531ce6beee",
+    "cgpa": 6.36,
+    "arrears": 2,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "a1796bd7-ec29-48c0-98ba-7a3dadfcefa1",
+    "student_id": "36531d81-5967-4f3f-b804-3f718ecc7500",
+    "cgpa": 9.41,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "e1c91d12-491e-43c1-b8a6-4c267343f9ae",
+    "student_id": "ff8353f1-ab42-411a-bf92-73045eac3e89",
+    "cgpa": 9.46,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "11611afa-df42-45f3-ad46-502c80d32237",
+    "student_id": "c3e086ff-f777-48aa-8cb6-c23b66fcae47",
+    "cgpa": 9.41,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "dd26d0d0-fed3-45da-beae-3b39066a050c",
+    "student_id": "d6c8ca56-fb0e-4c73-ba81-d83ac56a809f",
+    "cgpa": 6.69,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "ceb10e92-ae2d-40e4-be9c-45d67bd4fe87",
+    "student_id": "32fa093c-cae0-46f5-bf2d-c92724ba5ab3",
+    "cgpa": 9.13,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "c07e8245-73f6-4ab9-ab43-9447e9ac8b9c",
+    "student_id": "346822b7-ad70-41ac-9d9b-85aea829cdad",
+    "cgpa": 9.26,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "ccda875c-8de7-471e-bd7f-fb639e7bc227",
+    "student_id": "1758bf38-23fa-458b-b0ac-ecfcf3a0aa0d",
+    "cgpa": 9.87,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "0b72f8b6-297d-40aa-a304-b459d7a5f9a2",
+    "student_id": "e27a9161-7b97-4a3a-b06a-84968104fa39",
+    "cgpa": 6.01,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "d27aac5c-e2fc-49e6-b711-9d9bcfe5a9aa",
+    "student_id": "46c9bf76-0458-4798-8437-8c62d318dd26",
+    "cgpa": 7.99,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "357fb01a-521f-4e28-be3f-15d79d0bbecf",
+    "student_id": "69c5116d-740d-4c5c-8f78-038dac9997b7",
+    "cgpa": 9.52,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "286319df-8148-4ab0-952f-b2d0c69e2c1d",
+    "student_id": "270aa867-0a72-4a0e-83b9-833a315d6833",
+    "cgpa": 6.87,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "35ae3865-c098-4914-abc7-64c57be38ffb",
+    "student_id": "4356f75a-5e3d-4079-a7a3-05ba0ecea45b",
+    "cgpa": 6.19,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "0964a23b-d11a-4b11-b387-f9c0747451ff",
+    "student_id": "1549faa5-09d7-4de5-a873-8dc4f6ce8aae",
+    "cgpa": 6.51,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "9831ee8d-cbb9-442a-a7fa-c9ded8786c4a",
+    "student_id": "b906dbbb-9aff-41ef-a3c9-da7b5ec0bc5a",
+    "cgpa": 8.19,
+    "arrears": 1,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "793a5565-284e-44d6-88be-a264b299dafa",
+    "student_id": "c0841c7a-621d-4876-89ea-bed324e45ea1",
+    "cgpa": 7.68,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "ec9403fc-d30c-4cec-83c9-19e3d89d54cb",
+    "student_id": "8bfad197-83c9-449b-81ae-f32b5d08bb3c",
+    "cgpa": 8.16,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "f0c096e3-aa14-4ddf-a800-9624f59294d9",
+    "student_id": "f2dda29a-3473-4a90-a626-1dd5a62880dd",
+    "cgpa": 9.96,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "266379fa-f110-443f-8dd2-43a68457eeeb",
+    "student_id": "2673ad86-4ec8-4a4d-936b-0e6cbf3f4c2f",
+    "cgpa": 9.39,
+    "arrears": 3,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "3117dde5-2ce6-4ccb-b90d-dbb85fafb26f",
+    "student_id": "694c1dc2-5d39-40c4-b035-d4c28b9114e6",
+    "cgpa": 7.8,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "a59a465c-356e-4405-af7b-ee9aea87b46e",
+    "student_id": "41be313a-48fd-4dc7-bb7d-5d0b568e439b",
+    "cgpa": 8.66,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "de44d5e1-b00b-4c15-9aa0-ce47131421b3",
+    "student_id": "b2b78578-2010-4cbd-a78c-c12565a3a1a0",
+    "cgpa": 9.25,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "d4fd4620-34e8-4129-be65-5d0062fd5bc6",
+    "student_id": "2dfaae4e-863a-4a11-ac6e-785efb1a246f",
+    "cgpa": 7.93,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "49fb4495-696b-4bc6-916c-7156a194e11a",
+    "student_id": "3a2d3052-e05a-4ced-b3b9-b91ba6f12dc3",
+    "cgpa": 9.46,
+    "arrears": 3,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "bac2852d-0c82-4db1-9879-af9adc37d0d4",
+    "student_id": "b90b7895-0c1a-44a3-986a-fdd1d405d4d9",
+    "cgpa": 9.77,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "e82f6dd2-eaa1-484e-b47d-5b98df1be555",
+    "student_id": "79a27658-0dd7-40c5-938b-5af6c9f28de7",
+    "cgpa": 9.84,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "538ee5c7-8785-423d-979a-b3c2760af876",
+    "student_id": "8353e376-64da-403e-916c-ed85a81833ce",
+    "cgpa": 6.27,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "90e5139c-81b7-488a-9af9-077d3d91d93c",
+    "student_id": "7c57309f-8f57-4b54-ab05-f74452ce31dc",
+    "cgpa": 9.95,
+    "arrears": 3,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "b330affc-20f2-44cb-b5cf-63fe6f092312",
+    "student_id": "863d5a47-d4d4-4038-a488-e0f7217620c9",
+    "cgpa": 9.17,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "06267d90-75b6-471e-a804-0f3e90de4126",
+    "student_id": "074c9f93-9c7c-4a0f-b6e0-af51af9eabba",
+    "cgpa": 9.63,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "e5962a0c-31ba-4f13-9e8c-c109812c718b",
+    "student_id": "644c2935-7909-48a8-81a9-11edbc791c29",
+    "cgpa": 6.97,
+    "arrears": 3,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "27d5b2fe-eb63-4330-9c1f-f8a02b4ae1d2",
+    "student_id": "cec4ce9b-5ec8-48af-8095-5b03cf17ef5f",
+    "cgpa": 7.02,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "3c02752d-4b2d-469b-b2c3-6edf3ec6ffd3",
+    "student_id": "7f305b50-4960-4379-95ea-2c36da17d8d5",
+    "cgpa": 9.83,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "c824591e-7db4-4660-ba7d-e6f3adf8aace",
+    "student_id": "b11506c8-0618-475f-ac6e-369a2fa836c2",
+    "cgpa": 7.22,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "4ad0b05b-6015-4f8a-a729-e2ba3dfc7573",
+    "student_id": "5b84f7ec-1da3-41e4-a353-d786b472f22b",
+    "cgpa": 7.95,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "5a88ccb2-abaf-4d5a-9f5d-e91d3f092efa",
+    "student_id": "0af7b366-d170-4b01-be6e-77a49d10f7a0",
+    "cgpa": 8.83,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "7a5720f9-8064-483a-9a2d-4bf0eb3ae08b",
+    "student_id": "f94c0b92-d385-49ba-9484-49844c946e9b",
+    "cgpa": 6.46,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "44bc6bd7-71af-447b-8d80-fd86570950d9",
+    "student_id": "3c970f7e-0353-4ec8-bcbc-bd51b8cde433",
+    "cgpa": 8.01,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "b0fe9c92-ecd8-4914-b956-6fdbacff43b9",
+    "student_id": "da6b48b5-f935-4410-9903-45e6ecabd0db",
+    "cgpa": 8.66,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "44879076-8a54-4b2e-a7fd-af391ce85758",
+    "student_id": "07ef99f0-5fda-491a-91a0-2b152e3e3adb",
+    "cgpa": 9.45,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "28535e30-ef2c-474e-a14f-a75438a217b3",
+    "student_id": "8750a216-ae0d-410d-a83a-f3938f005745",
+    "cgpa": 6.98,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "269f464c-870b-4f01-a6f3-713004e0aee3",
+    "student_id": "4a17c3b0-f74a-47da-91aa-e27b4ff0a738",
+    "cgpa": 8.22,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "812b0853-a575-4df6-a5e8-aeba38c3c7be",
+    "student_id": "a5d93cca-0373-4c41-9cbb-264c282cf67c",
+    "cgpa": 7.48,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "793ef4b4-8182-43bc-8ee2-60f1236c64a1",
+    "student_id": "ed308b01-8ecd-4906-a577-94e2041fc65f",
+    "cgpa": 9.02,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "695cd08b-dbd4-4853-80d2-9e3549a6bf8b",
+    "student_id": "4c633d4a-5294-49e1-97ce-bd24235488a1",
+    "cgpa": 7.67,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "63bb1e3e-4054-4966-a1a1-163b0ed156d9",
+    "student_id": "1e6aca77-41bf-4491-b917-9b36a4ca4849",
+    "cgpa": 6.31,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "7a4643c3-7322-4876-ac56-1039c0ab3d63",
+    "student_id": "5a9ca658-5954-49f8-a1dd-c204ed1188b4",
+    "cgpa": 9.27,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "ba663977-94ee-47ba-b3da-5639daec9fe4",
+    "student_id": "70f22e06-3025-49d0-a78c-1369a3e93d35",
+    "cgpa": 7.8,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "c3960691-b675-43ee-acd8-1078948d66a4",
+    "student_id": "be9ab65a-c23d-46fe-b1ff-2ec3a2f10e54",
+    "cgpa": 9.19,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "417865a3-5254-4151-b85e-7fc91caec596",
+    "student_id": "99f7b70f-5359-4090-be57-9455d7179a67",
+    "cgpa": 7.41,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "28d068c1-6d66-4bc4-a0ae-3e0fdf666fbc",
+    "student_id": "f83b3e9c-03c6-46af-a179-1c57deb3d3e2",
+    "cgpa": 7.33,
+    "arrears": 2,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "d96e3d06-f852-4869-909b-7e15776dff93",
+    "student_id": "e14d0733-63ef-475a-976a-11501fa35a8b",
+    "cgpa": 7.24,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "41da0f12-73bb-41ee-b5b7-00be76badc84",
+    "student_id": "bc19cce1-32e5-4f65-9dd5-9c33ed71e8e2",
+    "cgpa": 6.37,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "e8c366a4-f294-4f02-a957-b734d165789c",
+    "student_id": "3984ad83-9d73-41da-8b4e-01adab49c2a2",
+    "cgpa": 7.5,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "e2c96b94-b6d6-43e8-9098-f80c0b5e036e",
+    "student_id": "c1bdf970-3120-48ce-9e61-071e7e3bcffd",
+    "cgpa": 7.99,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "b85bca09-4e2f-41fb-9f24-62c22e936bf2",
+    "student_id": "ced085e8-d4cf-47ea-9e07-9851cedb79f0",
+    "cgpa": 7.3,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "4504a38e-b849-480d-99df-b1f0c8cd6a2c",
+    "student_id": "088a4b98-66c7-400b-b7f5-1b626fdee2fc",
+    "cgpa": 8.89,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "852388e1-b90a-4689-b3a7-ec7afe8b9471",
+    "student_id": "18394a04-16e4-4741-ae5a-22fca98556b2",
+    "cgpa": 9.37,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "ec1b05b4-2413-4bfc-8135-281993260700",
+    "student_id": "7e1d91d1-8b3a-4291-a6d9-e555f129c2fa",
+    "cgpa": 8.57,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "71226242-11a6-4974-bc8b-a8127ede0003",
+    "student_id": "01378135-823a-4e1d-a05c-b370495dee0b",
+    "cgpa": 9.89,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "3af09188-50e9-44f7-a182-287e5ed42090",
+    "student_id": "8b0fc833-346b-4534-a057-d0f92051b73d",
+    "cgpa": 7.27,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "3b196e31-7c1c-419b-9186-6b134f29f35b",
+    "student_id": "2e8e3c91-8fcd-4d86-afff-f26d491d8f0d",
+    "cgpa": 9.86,
+    "arrears": 2,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "61659166-4c37-48fa-a3cd-af6dc11fdf0c",
+    "student_id": "b9e2f8fd-1f5d-4834-b18e-d9a177ab7ef9",
+    "cgpa": 8.52,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "a5c17c92-40dc-4400-a051-421c2b43f87a",
+    "student_id": "75521da4-09f7-46e2-8fe0-e38367eb038e",
+    "cgpa": 6.05,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "bcb80b12-de9d-49a0-b1ce-4311d98b0131",
+    "student_id": "716d7b7a-c899-4eac-b021-42de0daf822e",
+    "cgpa": 6.82,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "cf5c8209-a3e7-45dc-8d08-1a2b7d03e370",
+    "student_id": "8ed2dbed-189e-4bd7-83aa-a4e2fc088410",
+    "cgpa": 9.69,
+    "arrears": 3,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "3c005a3f-b64a-423c-85e6-4640ccc4d2d0",
+    "student_id": "d4d8ad7b-4775-4c21-a7fa-f999fb09b2a8",
+    "cgpa": 8.94,
+    "arrears": 2,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "10a1aa30-a9fb-47fd-a2f6-36ac81403496",
+    "student_id": "4caa4c55-02da-4d00-b61f-92ed5d23cd98",
+    "cgpa": 6.68,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "447e9c03-c253-42bb-8d51-6e07217a4913",
+    "student_id": "9944f055-7382-43a2-8470-33c1cca8ba17",
+    "cgpa": 8.97,
+    "arrears": 1,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "e9e83dac-a94b-4694-88b0-8969fcbb4cb0",
+    "student_id": "017226fc-c3b8-4452-8d75-572917411367",
+    "cgpa": 7.1,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "f5de796f-9cb8-4fce-9677-a96e1e37c857",
+    "student_id": "6ac1b328-56d9-4256-9333-f49f06a1070e",
+    "cgpa": 8.21,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "14cf4e74-3ebe-4e3c-be59-8fd57f351828",
+    "student_id": "4007d941-a16e-48e7-80b1-f9751bee69be",
+    "cgpa": 7.76,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "8fcaada7-eb0d-4273-b0e0-9f184f4e6cbc",
+    "student_id": "0256b720-6ddd-40a8-808c-7ef3b0b9368a",
+    "cgpa": 6.1,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "a4d224e8-bc8f-4db9-86dd-2ef643302447",
+    "student_id": "ff15c29c-1013-432f-afbc-49c904ea2dda",
+    "cgpa": 9.67,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "88563821-b382-4a02-99a7-4876284905ed",
+    "student_id": "f35c58df-303c-4452-9618-f17ec325f388",
+    "cgpa": 6.2,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "af29d9f0-6b08-43fd-99fd-4fc01c0f52b6",
+    "student_id": "0b1f3dee-48a9-4fc6-9344-df723b437aaa",
+    "cgpa": 8.89,
+    "arrears": 3,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "1a1cd1a2-bc77-4dc3-bdda-2387e025dc80",
+    "student_id": "392c9aa8-f3ef-442f-926e-ad9fbb81f034",
+    "cgpa": 7.18,
+    "arrears": 3,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "191843c4-3392-4819-9290-5c1f8d9ce837",
+    "student_id": "f72b1675-5526-45e9-b1eb-b2bda20d2246",
+    "cgpa": 7.17,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "0efa4c96-c1c2-4208-b993-d383584be438",
+    "student_id": "402a770a-4308-450c-a070-f25e3282ee0a",
+    "cgpa": 8.97,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "1845892c-2d4c-4dbe-8038-75671008d334",
+    "student_id": "51f4930f-ba76-4bc8-9cd5-6173d6dc7ce6",
+    "cgpa": 8.29,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "096a6a9e-f4ea-412f-97d0-7330306f9b75",
+    "student_id": "692d6c7f-b3cb-4f0d-b8ac-ea5e774c8f65",
+    "cgpa": 9.91,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "6c14be02-c8c5-405c-ac95-d3569155582a",
+    "student_id": "0f2e5028-7eb6-45a7-9720-e4483beace5f",
+    "cgpa": 9.82,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "0805c7f3-158f-4148-8a8b-8e99f832b09d",
+    "student_id": "83d635bc-c4c4-4226-8332-d8e161cd164a",
+    "cgpa": 6.67,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "66a84aa0-18dd-41d5-aa48-2e7eee97cd5e",
+    "student_id": "c49c326a-48a2-4fdc-83b0-9267bd421c4c",
+    "cgpa": 6.65,
+    "arrears": 3,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "bef5fec5-0019-4641-a459-2e466e0bb159",
+    "student_id": "3fc214c3-5666-460a-950d-05d61dfb6871",
+    "cgpa": 9.73,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "ec3fed5f-8bb8-4eb8-8392-f1b23c149d45",
+    "student_id": "8fdb4871-76bd-4297-9221-6d34619fcd10",
+    "cgpa": 9.49,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "042ad804-9792-44f4-9eda-dca78c64186e",
+    "student_id": "b51632b9-19b8-4f2e-bcae-058409262c11",
+    "cgpa": 7.45,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "d349e872-d92f-45bf-a61c-c64f3c79783e",
+    "student_id": "bf223baa-e64b-4be7-be85-211d1a90c94f",
+    "cgpa": 9.35,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "ba912188-673d-42e4-b2a4-b5f07fe80e86",
+    "student_id": "ea9dc4b1-3460-4365-9271-1aa510f3a2d3",
+    "cgpa": 7.36,
+    "arrears": 1,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "b07b0a69-0219-4fe6-bdd0-cfa5082d5ba3",
+    "student_id": "39530a03-b1cc-40f6-be80-e0bf87c3ef64",
+    "cgpa": 6.5,
+    "arrears": 2,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "f9cb6cde-485b-450e-843e-c7e9a8e46aaf",
+    "student_id": "34f92eb3-5e93-47c6-8f95-073ae1c4e253",
+    "cgpa": 9.48,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "f5aad3a0-bad3-4ea1-a7d1-08148f0a246e",
+    "student_id": "35779da5-8a8f-43b4-89f6-cdfb1ab664db",
+    "cgpa": 7.53,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "f3b6ad2b-6eb4-4237-9f1f-68c7063b81b2",
+    "student_id": "b0d9ea15-4688-4122-a876-74c75052ffef",
+    "cgpa": 7.33,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "8fa72832-5641-4b99-a71d-475d4abeefd5",
+    "student_id": "7f786bf0-c71a-4b92-9601-98db9e1b024d",
+    "cgpa": 8.87,
+    "arrears": 1,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "235aa005-1f3f-4800-882e-d5f0ecc55236",
+    "student_id": "78bbfa38-c991-41ac-be06-beca82e353e4",
+    "cgpa": 6.02,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "d2a58786-6243-4d5d-943f-fe782fab20b3",
+    "student_id": "53e5f1bf-d414-498f-9c61-7505ce629a5d",
+    "cgpa": 8.34,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "1f6e82ba-88d8-49e8-8dec-53439dd10f71",
+    "student_id": "bfa96dc7-f6ae-483b-b321-8ecafd5b5084",
+    "cgpa": 7.94,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "5d99a74e-6407-4de2-96ab-fdae1e1f7355",
+    "student_id": "40e8cec7-e0b3-4988-a8ab-e055db192fd2",
+    "cgpa": 9.33,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "17baa752-97f7-48d4-b666-8a21e02424b4",
+    "student_id": "e6a0f700-4991-45c7-9bbb-2ac35d6e0174",
+    "cgpa": 6.79,
+    "arrears": 1,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "19a24fc1-766b-4318-bac6-6f127e862b63",
+    "student_id": "5c55111f-df4a-4d12-b68a-034c6c1383a9",
+    "cgpa": 8.57,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "7c094607-9a6d-4c68-b5b0-0b47c0e93c28",
+    "student_id": "d1ddf467-70b8-410a-9e82-e6eb7db6832a",
+    "cgpa": 8.52,
+    "arrears": 1,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "1cccf109-51aa-492b-b2b7-f1c49f58ab54",
+    "student_id": "0931857e-6823-4bf4-a303-efd39db5096a",
+    "cgpa": 8.9,
+    "arrears": 2,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "24e22ca2-f3ba-4f07-8bce-051476761155",
+    "student_id": "1825894c-1633-40b4-8a2a-fc2dee769517",
+    "cgpa": 7.75,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "b58d7f09-c80e-4ef3-9316-1bf3b3f234aa",
+    "student_id": "c39f0042-c3f4-4f06-98ef-66681f15c520",
+    "cgpa": 6.57,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "b6b3600e-a2d7-4dc0-9d68-7ab2fa508867",
+    "student_id": "b0bb7a11-f4bc-4230-a63e-aba26a22028e",
+    "cgpa": 6.84,
+    "arrears": 3,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "db54b03d-036d-43ec-9546-fa3a528ce96a",
+    "student_id": "4b9114bf-0372-4cfe-a871-56cf8852cd41",
+    "cgpa": 7.05,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "25f9c64a-061a-425c-9539-abe016c0a69c",
+    "student_id": "42fb35ae-a74f-4c5b-a7cd-7e1e75d10a7e",
+    "cgpa": 9.84,
+    "arrears": 1,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "4b7625e4-f3d1-4db6-b4bc-271d1834106b",
+    "student_id": "50a1109e-2233-42c3-939e-ba9600a5cdd8",
+    "cgpa": 7.31,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a505281c-1cb5-4e28-81e2-7ee987c62df2",
+    "student_id": "d8162e44-dce5-41ba-b79f-711693205549",
+    "cgpa": 6.37,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "03186002-571a-4629-bcb3-32ab645dc99f",
+    "student_id": "068b8e53-c54d-44d6-b72f-73d6c96dc3db",
+    "cgpa": 7.53,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "408fc25f-8d13-4b9c-bdca-1d1bdbf78f82",
+    "student_id": "d73c9a44-9dec-4665-a0e9-58f362c86b29",
+    "cgpa": 10,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "759c74e5-af7f-4813-927a-bf17614488c9",
+    "student_id": "5ef61911-6baf-408d-ba80-3a83e174865f",
+    "cgpa": 9.73,
+    "arrears": 2,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "befe9690-d902-4ecb-8e0b-9794f0961300",
+    "student_id": "892e5019-e268-4a65-aba2-d647ec91ff48",
+    "cgpa": 7.18,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "cb42441a-b49b-414d-985c-6f101334a0ac",
+    "student_id": "acae24ab-6c8b-4883-bdca-09df1cdccf3d",
+    "cgpa": 6.14,
+    "arrears": 2,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "ffddc3b3-ac8c-4f32-b4f2-a4b439e6eb89",
+    "student_id": "04522e15-7df9-4da2-bed0-c7800453c4b7",
+    "cgpa": 7.56,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "98c0e5dd-d8d2-4261-b7eb-961a55b428ca",
+    "student_id": "6d698a3f-3f3d-404d-b3cd-128d584ebba6",
+    "cgpa": 8.75,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7e03086e-d87e-4f36-9be5-bb950ceaaeaf",
+    "student_id": "9967c0f9-5d62-4143-b397-c49a8140fd0b",
+    "cgpa": 8.31,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "bef26e21-c0d7-466a-ab7c-3762d2b19d5c",
+    "student_id": "36ba1274-e378-4a2c-94cf-2f7ef2bf1710",
+    "cgpa": 7.65,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f1fefd02-680d-4ca5-8f77-c3d1270f2d26",
+    "student_id": "094a096d-43d5-4314-87cd-b83716fe8902",
+    "cgpa": 6.52,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "02b7ff3b-b023-4506-81e6-457d28a266e5",
+    "student_id": "677131f4-0a13-4b98-803c-ff72c8e487d6",
+    "cgpa": 8.74,
+    "arrears": 3,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "82e9548c-a6fc-4dc5-885b-fd6d2f992226",
+    "student_id": "13cb4495-002d-426b-98e8-52b6eba2b3f1",
+    "cgpa": 6.68,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d64a2424-e32f-42a7-a650-d6a75e698cdb",
+    "student_id": "6fb1afa7-c646-4ec8-a950-2ebb660cd71f",
+    "cgpa": 7.32,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7a5261ac-6625-4e7b-831b-7bdb8cfbeed4",
+    "student_id": "f0eab2ea-0318-42ef-9212-0dbe96614f95",
+    "cgpa": 7.99,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c0123bb7-d734-43bd-8283-44a4062e36ef",
+    "student_id": "ad8e935a-aaea-448e-b677-062f9f318d8d",
+    "cgpa": 9.39,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "fda71350-0cb2-42ed-b8c7-6650e863d56e",
+    "student_id": "39d2dc99-c719-4a42-a7cf-ef5f5dbb9f90",
+    "cgpa": 7.82,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "1d3d1681-e29c-4b10-ad9e-1fa0a709ef3c",
+    "student_id": "806861fe-7802-4c9b-adbe-1ec0ebd5f5cb",
+    "cgpa": 8.16,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6a1785e9-47d6-4407-ba9e-e508a61fb054",
+    "student_id": "83b4df41-3a31-4478-a4f6-9daed63ed0ff",
+    "cgpa": 7.82,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "edc11f65-8d3b-48fc-97a3-ae744fdbc718",
+    "student_id": "11052fc3-43dc-4f7f-b28e-3c123833ddac",
+    "cgpa": 9.88,
+    "arrears": 2,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7bccf385-e7c7-40be-8478-40ec3520b2c9",
+    "student_id": "caddf898-b123-4dc5-95eb-e8c139be0e19",
+    "cgpa": 7.06,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d407b615-86a1-42a0-a9e2-ed5c6d77f2b6",
+    "student_id": "8faae584-82d8-4057-a0a5-516e0b752619",
+    "cgpa": 9.89,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6fe055cb-1a3b-4f68-846c-1506389f96e9",
+    "student_id": "8297fba0-6d36-4ddb-a724-9f75594cbcf1",
+    "cgpa": 9.1,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e2ee8614-66a3-4cbe-91ef-486c3c73b909",
+    "student_id": "1e74f777-e371-4cb3-8218-d2ac936dd029",
+    "cgpa": 7.21,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2f8ceb13-33af-4381-b497-3f426ae92aca",
+    "student_id": "5f4be22f-6dd6-4840-922b-1e6a4301e1ec",
+    "cgpa": 7.1,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "9bf0b2b2-77a1-456a-8f7b-ec4dfa8704a0",
+    "student_id": "e115634b-afd8-425b-8e9d-b98df4e88e88",
+    "cgpa": 8.2,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "1d6f1176-3a2f-4bcf-a907-2806993e4edd",
+    "student_id": "6c817983-25cb-4e82-a4d1-bac098eccad6",
+    "cgpa": 8.89,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "87fcab32-0d12-401f-892b-3eaadb48405d",
+    "student_id": "c0797317-d528-47bf-bd87-af6d61922d11",
+    "cgpa": 9.85,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "344a5677-a35c-4cae-b187-4635994b3a18",
+    "student_id": "fe93b38f-81f8-4905-9e83-30c52c122e5a",
+    "cgpa": 9.88,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "94419564-0294-4df4-a835-a4a0641cc6a2",
+    "student_id": "013660cb-b914-4bb4-b18e-20446790c3c0",
+    "cgpa": 6.04,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8f9356ad-935a-4ed5-851a-152448887e5e",
+    "student_id": "3f22488e-b87a-40b0-a865-99834f10da5c",
+    "cgpa": 9.35,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e3c68c0f-4693-4ab2-b1ee-621a52153c7e",
+    "student_id": "5c9ac32d-afc7-4040-85b3-4ae12e9f2a89",
+    "cgpa": 8.08,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "4479a548-a075-488f-924b-1d2e3f531ba2",
+    "student_id": "9ac9d712-e34b-41dc-8b09-ada3077f9379",
+    "cgpa": 8.55,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f9ae6466-a3cb-4458-8db6-f9234cda21d0",
+    "student_id": "a3bb7ec4-57d7-4341-b9e2-a3cff7556ea7",
+    "cgpa": 7.87,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "bc2d8ebe-fccb-4563-bec8-f629f64968ab",
+    "student_id": "95e27032-c876-40cc-a948-36cae50bf9c5",
+    "cgpa": 6.09,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "742e5dc3-9e56-4980-98bc-564037e707a3",
+    "student_id": "3a91a60f-5836-4f5c-bea1-b61dd69c7542",
+    "cgpa": 8.11,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "cdd68eeb-8b3a-43f8-9257-824a61b64ae0",
+    "student_id": "cc77892a-06f9-4394-ab72-bb3c5bb8ebbf",
+    "cgpa": 7.72,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d53b0f95-7350-4d78-acb8-83d3c83cae90",
+    "student_id": "273fcf00-3e1f-4a53-a3af-09854562b830",
+    "cgpa": 8.14,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "3be08ac2-85ae-4a73-804d-137de2746d58",
+    "student_id": "8ddf2b69-dfe8-4a38-b204-af9245e07b28",
+    "cgpa": 9.83,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "26c74b04-e4eb-4a2f-b0f7-32a9e98610cd",
+    "student_id": "dc08558c-d55b-4576-a264-8731eea634f1",
+    "cgpa": 6.52,
+    "arrears": 3,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "cba2616b-94cb-4515-aa75-955d5c5ed88b",
+    "student_id": "af12a650-3876-4420-8e39-697489ec6e67",
+    "cgpa": 9.13,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f0b3d0fd-3828-48a6-8f28-a29070675dd9",
+    "student_id": "3cdc432b-b33a-4d61-b764-ab0f0f457fc7",
+    "cgpa": 7.74,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d29bc9f4-1db3-46b0-9967-697885070e2c",
+    "student_id": "30c48c24-788b-4516-95eb-27d0b2b39284",
+    "cgpa": 7.49,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "ad7adddf-0d4c-4b38-abc7-2efd9ecf99ca",
+    "student_id": "9cf2fb7f-db12-4ac8-9df0-79addb088540",
+    "cgpa": 6.59,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8a4600a2-4189-413b-b33b-dd64b38f63b3",
+    "student_id": "1ad17f50-e1b5-4ad1-8bde-721df5697ea4",
+    "cgpa": 9.2,
+    "arrears": 2,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "43dcfe25-f008-4f37-8ea5-651f04efef9a",
+    "student_id": "1e88e429-b373-46b0-874c-2be7203a0d5e",
+    "cgpa": 9.69,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "90855994-c6a2-4b9d-927f-5eaaa3928f92",
+    "student_id": "2872a407-4f19-4824-9dcd-1a71ee1da4d0",
+    "cgpa": 6.01,
+    "arrears": 2,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "55753f4e-7b3e-42e8-baa4-d3704cb43392",
+    "student_id": "73675549-d0e1-4167-a579-aa9551b6868a",
+    "cgpa": 9.07,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "3d7e522c-bc7b-4b17-ab42-a791da91e0c5",
+    "student_id": "76e5e6eb-a5ef-4a00-952e-fdc0951770a2",
+    "cgpa": 8.33,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "b1652b46-44b5-4275-aae8-23247f516225",
+    "student_id": "6d4f6ec5-792c-48d1-a725-f4ef812cc0ad",
+    "cgpa": 9.42,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8f50922b-6434-406b-bdbd-e3446520da79",
+    "student_id": "84cc8879-facb-4c66-b0f4-1ab1875d12da",
+    "cgpa": 8.21,
+    "arrears": 2,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "da44db3b-3eef-4f70-9c64-03c39b2e3bf5",
+    "student_id": "0284d2ae-c3eb-4cb0-83ea-4f17d4c97afd",
+    "cgpa": 6.46,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "64ede267-7b1a-46ef-aaf7-95eb2ffd556f",
+    "student_id": "df16394d-89ee-41e5-ad0a-28387ff3aa87",
+    "cgpa": 7.23,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a801a736-8208-45b2-81a5-141feeb1161f",
+    "student_id": "e8cec2d3-e68d-4e7f-9f52-efc8f41645bb",
+    "cgpa": 9.76,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2494d854-2a3f-4935-b58a-0701aff073e5",
+    "student_id": "2c54883b-6df2-4e38-9da0-bd86d4c9d90e",
+    "cgpa": 9.78,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "37b532e1-0e5b-444d-8e6b-3de3024c7769",
+    "student_id": "12ffa12e-9dae-4df9-b8ba-dd14f21c2a8d",
+    "cgpa": 6.02,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "ed28e3ac-0a83-4f2f-bd47-e05f912f8c1d",
+    "student_id": "7acaa451-5470-4d59-a23c-32e8400d9e6c",
+    "cgpa": 6.15,
+    "arrears": 1,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "5e46f530-4c3a-4cbb-90a1-8ed598072408",
+    "student_id": "3ef7a114-31b4-41df-8e0e-2fba45f41d90",
+    "cgpa": 6.98,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e39c0967-1dfe-4429-925f-0dca02503061",
+    "student_id": "77612e23-df72-4ba5-be68-c6392e0b28fd",
+    "cgpa": 7.19,
+    "arrears": 1,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "dd1f6963-0415-4636-972a-516cd5f43e4e",
+    "student_id": "0b2101ec-7c15-4696-8514-7587124168e3",
+    "cgpa": 6.43,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "95e66140-7195-4c00-8e19-9820f3ffe4a6",
+    "student_id": "afa6f502-ff35-4174-823c-9fb4aaca05b7",
+    "cgpa": 7.09,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d330ec95-fd93-41cf-9609-46e54b1da140",
+    "student_id": "6d6d314c-d3f5-4817-a940-7e8e969092d3",
+    "cgpa": 9.36,
+    "arrears": 2,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0290585c-3cb3-4540-916c-4c8b4beedb39",
+    "student_id": "8ef3f476-6f82-4e0e-9869-02df8c690957",
+    "cgpa": 9.76,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "df99fe32-3a9b-469d-99eb-14163f3db9b4",
+    "student_id": "eb00b889-eb43-4c6e-8bcc-f3e5875d5915",
+    "cgpa": 7.63,
+    "arrears": 2,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2d97856c-0921-4559-9010-b442ead224c1",
+    "student_id": "ec84b78c-3baf-4550-80c8-61693abc2a37",
+    "cgpa": 6.99,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "38ff451e-03b7-438c-aca8-9293642a2bd0",
+    "student_id": "d52fee79-7d25-4388-8338-31f5dda7618f",
+    "cgpa": 8.82,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "517ae13e-ba0e-4381-837c-bff7888aef1e",
+    "student_id": "7e1457b4-138e-41ae-9574-0b85ce8331f9",
+    "cgpa": 8.45,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "75f4f81e-6a63-4c3b-a302-a74aa8892753",
+    "student_id": "3d962268-a597-418c-b696-5e73db73fd08",
+    "cgpa": 8.23,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c11e1c35-b208-4fb0-876a-fa6092ae9311",
+    "student_id": "a3c4c666-2ea2-411f-88f3-6027aa8ff4bd",
+    "cgpa": 6.43,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f65dedb1-ffb1-45c5-8d7d-51a65df845a4",
+    "student_id": "d0311dc0-cb92-4b64-88f2-1e901641a51b",
+    "cgpa": 7.19,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "69f28ecb-196f-4e0e-a8ab-4ebb0bfaab6c",
+    "student_id": "5c4889ba-66ca-42f7-9c40-6f336c2670b5",
+    "cgpa": 9.58,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2ed73036-5a49-4586-b0b4-ea1676120ef5",
+    "student_id": "fbbc73c5-81d2-404e-b7e6-173e53e487f2",
+    "cgpa": 7.45,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "68fd7b32-c65b-42b3-af46-4af0ca4d0ea9",
+    "student_id": "d8908f41-5167-46a1-8b04-10ce7e07c46a",
+    "cgpa": 7.75,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "3b54b053-d012-40f6-9993-fdd80dbb1283",
+    "student_id": "2fd97bc3-b5ed-48cd-8ff1-8602c26f03f0",
+    "cgpa": 8.23,
+    "arrears": 0,
+    "semester": 8,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "cc82a10c-97b1-4892-9481-8064d83f53b1",
+    "student_id": "ae786161-3783-4a54-8512-6f9dfc7623d8",
+    "cgpa": 7.47,
+    "arrears": 2,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "df2c3ff3-f9c6-4fbc-bd15-310e3dc354b5",
+    "student_id": "7bfaf81d-8e3e-42de-9bb8-3e7358a9cabd",
+    "cgpa": 7.96,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "aaeb6389-81c4-4f7d-837b-0559b09141dc",
+    "student_id": "80a2e668-d706-498a-a108-83f8831abbcc",
+    "cgpa": 7.81,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "99755ece-9f2c-4252-9613-ae8f5a3a0465",
+    "student_id": "6ff664f2-355b-458b-a9ac-3de7cf1ea964",
+    "cgpa": 6.62,
+    "arrears": 0,
+    "semester": 2,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "206f92be-f1cb-436d-943e-6f02181fda3d",
+    "student_id": "d8ec9400-feb6-43cc-8f3e-23195e0bfb63",
+    "cgpa": 6.03,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0f79a131-0378-424f-8138-7a0b412181a4",
+    "student_id": "9bec62c9-bbbf-4b15-becc-4b34de57ce4a",
+    "cgpa": 7.25,
+    "arrears": 0,
+    "semester": 6,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "74d76150-7edf-4fe6-85ba-fe8282f86986",
+    "student_id": "eceb6be2-ea3f-4cf6-b742-a6217bdb1cdd",
+    "cgpa": 8.38,
+    "arrears": 0,
+    "semester": 7,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "15079ff3-ba1a-4fda-819b-0ed3b7d2a648",
+    "student_id": "446652eb-196e-43f4-9c22-1e854f473c50",
+    "cgpa": 7.22,
+    "arrears": 0,
+    "semester": 4,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "1836ace6-1430-4bbd-86ba-d28ff580c058",
+    "student_id": "ac4aa26e-5beb-45ab-aafb-a2d296dba3a5",
+    "cgpa": 8.11,
+    "arrears": 0,
+    "semester": 3,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8d58edbf-7480-430f-a9ee-f346ca366bf8",
+    "student_id": "94b9b2aa-b2b2-4da8-a080-562807da99f0",
+    "cgpa": 6.18,
+    "arrears": 0,
+    "semester": 5,
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c4e3ce75-db55-4eab-8c21-cdc0f23dd9ed",
+    "student_id": "9ab9ca1c-3c49-4e88-b1c2-4a4a4f3d12b5",
+    "cgpa": 7.44,
+    "arrears": 0,
+    "semester": 1,
+    "created_at": "2026-08-14T03:16:02.915Z"
+  }
+]

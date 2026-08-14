@@ -131,7 +131,9 @@ export default function Academic() {
               ) : records.length === 0 ? (
                 <tr><td colSpan={5} style={{ textAlign: 'center', padding: 'var(--spacing-8)' }}>No academic records found.</td></tr>
               ) : (
-                records.map(record => {
+                records
+                  .filter(r => r.cgpa < 6.5)
+                  .map(record => {
                   const isCritical = record.cgpa < 6.5 || record.arrears > 2;
                   const isWatch = (record.cgpa >= 6.5 && record.cgpa < 7.5) || record.arrears > 0;
                   

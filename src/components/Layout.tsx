@@ -1,7 +1,7 @@
 import { Outlet, Navigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
-import Sidebar from './Sidebar';
-import Header from './Header';
+import VtopHeader from './VtopHeader';
+import VtopNavbar from './VtopNavbar';
 
 export default function Layout() {
   const { user, adminProfile, loading } = useAuth();
@@ -16,9 +16,9 @@ export default function Layout() {
 
   return (
     <div className="app-layout">
-      <Sidebar />
+      <VtopHeader />
+      <VtopNavbar />
       <div className="main-wrapper">
-        <Header />
         <main className="main-content">
           <Outlet />
         </main>

@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "262d21e2-c6eb-4b55-b51d-0b50ca242294",
+    "student_id": "fefd4db6-0213-444b-b6c3-cf11cd7b0448",
+    "percentage": 91.85,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "8b04598f-8a63-473e-aa3e-a74e85f792c3",
+    "student_id": "d7794709-309b-441c-805a-103011bdcdb5",
+    "percentage": 89.26,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "a14f5e70-979e-4a52-9b01-c62b4b7e0535",
+    "student_id": "9bcb2040-983d-4f3d-bf05-72e39761824c",
+    "percentage": 97.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "94487784-a513-4421-85c6-5cd91695fcf0",
+    "student_id": "0d218be6-18bc-4476-ac97-43b6e0a1481b",
+    "percentage": 82.68,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "2b672372-8adc-428d-a3a0-058061f5b2ab",
+    "student_id": "6c0ca735-f375-4dfb-accf-ecb81be5451e",
+    "percentage": 86.98,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "1d6e82f0-1308-4e95-bc5e-789363a6918e",
+    "student_id": "74cb604a-2dd0-466c-9185-b943f58ade5f",
+    "percentage": 76.98,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "b78d720b-566b-4f04-8e66-f766517c8a95",
+    "student_id": "fa4f0701-d845-4aa4-b65a-3dfa24c51b0d",
+    "percentage": 73.35,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "0aeaccf5-062c-441b-ba0a-d443847bd1b5",
+    "student_id": "2616dda1-3676-4db7-a58a-90cb9b5fd54e",
+    "percentage": 80.57,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "f141d614-9a56-4069-85bb-3f1dcb6d4324",
+    "student_id": "1b3d45e3-8e8b-486e-8973-95cb60f0e579",
+    "percentage": 73.86,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "1d205cd9-b9a4-44d8-97fb-8116f8dd1ca4",
+    "student_id": "add742da-a870-4096-a192-0781246e6bc3",
+    "percentage": 83.71,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "365c45c8-63f9-4be8-bc3f-92b0c8618862",
+    "student_id": "a6fcac6d-bf56-4e61-a61d-fc7fd1dfc3fe",
+    "percentage": 89.24,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "4d0c1431-069a-4b77-a8e7-558b344d2925",
+    "student_id": "be3aeca7-e005-4c45-8148-b64f3f173a21",
+    "percentage": 84.65,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "530dc9f2-cc77-47cb-8e5a-2b055b662deb",
+    "student_id": "ae18fab5-7a13-4120-94ce-ec2ddf923fea",
+    "percentage": 81.76,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "f9ca1932-8e88-4433-a472-fbac1da6fcb3",
+    "student_id": "ea177012-b341-4861-991e-d7ad8b2578ee",
+    "percentage": 95.65,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "82ad5904-c47f-4764-95d7-93d1371df13e",
+    "student_id": "8fb26f20-8468-477a-8fce-1305b95b0a54",
+    "percentage": 98.14,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "a9d03d50-8db3-4e31-9c7e-034762fb888c",
+    "student_id": "3b6d7a0a-6e5a-453a-b35e-e065dc479399",
+    "percentage": 78.5,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "14d64bc5-e089-4023-a8d0-072e75889983",
+    "student_id": "0d48d179-6b70-4557-b064-e2742d31e48c",
+    "percentage": 82.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "5932af52-8e22-4730-8b65-c5fdb93d9820",
+    "student_id": "50c4b1eb-c967-42a4-8464-788766f5e67f",
+    "percentage": 96.99,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "b8657fc6-82f0-4929-9e7e-ac3341882451",
+    "student_id": "08d5b949-8e7b-4c16-8de8-46eb07ee9ad5",
+    "percentage": 70.31,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "674d2e46-fa1e-4a51-bfd7-981bfd6cb025",
+    "student_id": "2369dcd6-c1a3-4989-97b9-5d2a4adfaffd",
+    "percentage": 91.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "124db51e-46dc-4b2e-8df4-274c9f502f63",
+    "student_id": "4a209d8b-7fd2-42ac-bbcb-83e1edc6de61",
+    "percentage": 92.84,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.906Z"
+  },
+  {
+    "id": "b84b8338-ffc3-47fd-9222-014e1ac079e0",
+    "student_id": "00331d0b-5edc-4262-8ff7-11119fbdb737",
+    "percentage": 71.44,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "ca323722-b4a2-431b-acc4-c7d13abb626b",
+    "student_id": "03c5ccd2-eb8e-4d0f-9172-387644b6d9ed",
+    "percentage": 92.28,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "5049d9d6-9557-4d99-b17b-62dd526faba2",
+    "student_id": "4771c415-f5c1-44d0-b454-b6d8cab689bc",
+    "percentage": 70.2,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "3eb2c8ea-e897-49b1-9efa-3efd42a5e500",
+    "student_id": "e2efa985-ed27-41e2-ae48-020fba23d704",
+    "percentage": 95.19,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "6d3df98c-29f0-477c-b895-7fdbf6fa47b5",
+    "student_id": "8b023e19-ac2f-42b0-a680-8eb04bcc4421",
+    "percentage": 73.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "0eb2faa2-0606-4774-89bd-57bdd171833a",
+    "student_id": "6b23f39f-57e3-498f-a774-f25283466b24",
+    "percentage": 92.88,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "473b0424-8f48-4edf-b361-537e03c85fc2",
+    "student_id": "0d30230e-e70e-431b-a1df-533805bfc9f9",
+    "percentage": 88.96,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "145d0454-eb1a-4099-9907-3e970d31ce36",
+    "student_id": "7324c597-360b-42d1-83c6-44f423dc0322",
+    "percentage": 76.77,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "70597f68-6c26-4604-a380-71bb8547f0df",
+    "student_id": "816ed23b-2953-41b3-b585-8bb7a16cd4ce",
+    "percentage": 87.74,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "a6e01cd8-c546-41f2-9619-9c23d1ed8dea",
+    "student_id": "86ed256b-b8e9-48b2-a797-bd696b3501e1",
+    "percentage": 70.71,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "a837bbb3-e1d6-4636-98f4-4d8883d4ab01",
+    "student_id": "edc25104-0673-4336-afd6-c1a57c7e9401",
+    "percentage": 97.02,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "d860ee03-e424-4a3f-98de-78e548c48912",
+    "student_id": "87fb3a19-aeaa-4a78-894f-78cf37c6de0c",
+    "percentage": 96.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "a6489a99-5b2b-4a5e-82a9-6b3f52cfc8a7",
+    "student_id": "6f80ea1d-b284-4bf2-9e5a-023ba6c4ac6b",
+    "percentage": 85.08,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "4be97d01-a9b2-41a7-adb2-e4a2c629afbe",
+    "student_id": "0df2ec64-d896-4d8d-838f-ca7548d5fbf5",
+    "percentage": 96.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "d0902c8f-d962-4fc1-8bac-ee6b40c6de31",
+    "student_id": "f6b50e65-7bed-41f3-905c-6f68be6f6e9e",
+    "percentage": 94.59,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "98f0210c-76b1-4ee2-9cd3-a0a6e8e65f3b",
+    "student_id": "7a41dec7-99b1-4e88-8543-2accabd6594b",
+    "percentage": 75.1,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "5fcdc365-fab2-40f5-af0c-5f39e30058df",
+    "student_id": "0e80039c-38c7-4bf9-916b-ad8fc700f1b2",
+    "percentage": 85.66,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.907Z"
+  },
+  {
+    "id": "782944df-21d2-4336-aad1-91a304a4daf0",
+    "student_id": "ba1aa740-a350-4d21-9836-c438ff90e0d6",
+    "percentage": 98.74,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "924b98b6-a403-40d4-b3c2-dd157a299dd7",
+    "student_id": "426c5054-40e9-4b15-ae74-2d6000a52c48",
+    "percentage": 89.3,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "d2c0c7fa-ac7d-4609-89c0-d03c5acc7365",
+    "student_id": "dadeafaf-04ab-4fcb-88d2-d2ec02556a9f",
+    "percentage": 93.04,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "9f65aca9-5213-4ada-a688-3eca764c3de9",
+    "student_id": "d7d7bd92-812f-4b23-bc92-e2292834e1df",
+    "percentage": 81.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "5394e54e-680f-4b3b-ba28-f97c8fa298d7",
+    "student_id": "a07699f1-b1a4-4143-9357-b88e9a6dbfd4",
+    "percentage": 99.64,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "cfd660fc-40f3-4a9c-902b-5eb6eb747348",
+    "student_id": "0d13fc60-bda7-40ed-9304-1970e53e2193",
+    "percentage": 99.78,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "0f1165bb-8475-4ad2-8abb-624f929307ba",
+    "student_id": "ca9a51e5-7f7d-439a-bfd6-d2a7a0dafb3b",
+    "percentage": 70.27,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "bd5f8aa2-703a-4cd5-bf09-835faa74d6d4",
+    "student_id": "54086ab6-07aa-4eba-837e-ae1aff6a13e2",
+    "percentage": 98.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8aa9c0a1-f490-46b1-9124-9c445d2e9bcd",
+    "student_id": "dc4e7fae-ffb7-4735-bd60-bd258de268a4",
+    "percentage": 75.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "f7387f0d-9f90-4873-95bc-d972d5456e3b",
+    "student_id": "40160f92-0496-4050-ad92-6db47f1fb549",
+    "percentage": 95.04,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "aa25704b-6f64-42bd-849b-497fb2f23266",
+    "student_id": "9a65dca0-fc1d-4408-874d-e02d3e6fafb3",
+    "percentage": 82.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "bef96560-508c-43d3-8d68-de715ff0e887",
+    "student_id": "fc4323b8-9586-42a8-8267-3c606ff8d579",
+    "percentage": 80.6,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b40d027b-0f9f-4359-8d3d-41ab5e94c05a",
+    "student_id": "87dcdcb3-d21c-46a2-a8d9-2b443c94fd50",
+    "percentage": 87.86,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3b3fefb4-983f-4ab9-8bf4-9ab11dfff6c0",
+    "student_id": "154bd370-204b-47f8-871a-7f5c2add8631",
+    "percentage": 82.7,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "1b2d4ddf-042e-4acc-8b31-4e45228ebf14",
+    "student_id": "dabb6252-e849-4761-bd76-992bc0607da3",
+    "percentage": 75.7,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "345ac792-d1b6-4643-9a11-3fc840ab0048",
+    "student_id": "f943dae6-326d-478f-a34f-7659376af35f",
+    "percentage": 85.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "11ae9fa7-6c82-4a76-846a-7d440bbf3f50",
+    "student_id": "9372aa41-275e-48fb-8139-c362f5bd4808",
+    "percentage": 73.62,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "e3173db1-346f-492b-8b02-730ca19d27ed",
+    "student_id": "5038e8af-e5af-4dc4-9422-b1ba77365330",
+    "percentage": 92.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "ccbc5a7f-03b9-4d94-9356-2530daf15514",
+    "student_id": "2d68c42c-b5c1-4afd-842b-45698df73d35",
+    "percentage": 95.89,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "c2d2215a-d374-4e4e-97ea-4cdc2294b424",
+    "student_id": "4406c033-7b81-419c-ad32-c11276c97a05",
+    "percentage": 92.27,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "319cabfb-7e21-456e-8512-a487e1b8f0d2",
+    "student_id": "12f41be2-7ddb-4343-b48e-674ced6f6fff",
+    "percentage": 72.69,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "978d6542-3445-4621-a734-683b97ff2316",
+    "student_id": "f09816ac-7761-4944-9f61-b520e3452367",
+    "percentage": 97.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "bbfdcf99-b829-408f-b37b-28544bc0481c",
+    "student_id": "829ad37f-f2b5-41a6-99dc-273fbaa17e53",
+    "percentage": 75.66,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "0d9356f8-a076-46b0-ac1a-155963ef13ee",
+    "student_id": "6a3e2128-5806-4677-83b5-94557863026b",
+    "percentage": 93.11,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "65c2012f-0227-4a7a-abc0-9ed89835e70c",
+    "student_id": "df5da998-99e2-4349-a3cd-ca22f663461f",
+    "percentage": 77.02,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "2b4b74c5-cba5-41ad-8651-9cc3fa17313a",
+    "student_id": "d8b4fe83-efee-4396-be13-18cce04d1562",
+    "percentage": 92.33,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "6bb95456-ca8e-471b-a4bc-a0ea9e289fee",
+    "student_id": "33ad30e4-9dbb-4d14-85bc-4c6788d0c766",
+    "percentage": 76.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "b0f96f0e-94f7-4579-8baf-c3bbddd89355",
+    "student_id": "457d8eb1-825c-4d76-a8f5-8adee7ab46cc",
+    "percentage": 78.41,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "3b303302-fb52-48f0-a40f-96905ea860de",
+    "student_id": "50c1a78d-6b1d-48b9-96d3-3a3217be6cbb",
+    "percentage": 92.43,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "27aaf9b6-cbb5-45e7-ba8f-36e209d35292",
+    "student_id": "911ddf26-906c-4369-bd7c-9eefa01ccb9a",
+    "percentage": 78.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "5d3587a8-5ac7-447d-8e57-311e5dc5b56b",
+    "student_id": "199cee83-00ad-4362-9c46-2362810fae9e",
+    "percentage": 86.28,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "6a506749-87f8-4bfe-a2a0-c1e98956173d",
+    "student_id": "289dc3d9-071f-4e5b-97d9-c6e57ffe33ae",
+    "percentage": 70.3,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "2a033e90-3b15-4b8c-a45c-b34b89d8e46c",
+    "student_id": "f2ef703e-6f7c-4caa-9810-5a2e9c5729fb",
+    "percentage": 72.63,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "dd69b333-d9f5-48c5-aed0-c39939f4c6bf",
+    "student_id": "1a42f7ff-a617-43ba-9331-7cfdf9c569c2",
+    "percentage": 77.8,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "89adadb4-83c1-4497-81b9-dbd5aa4c0103",
+    "student_id": "adbb1e18-3452-466b-9792-84a5da66ec2d",
+    "percentage": 74.47,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "15afc9de-6fd5-4470-862a-286dcc178e0c",
+    "student_id": "45b2866f-b87c-4b85-8b1d-63e51a08f2c9",
+    "percentage": 97.33,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "97b3c75b-8341-48ee-8e09-40b0ae594b26",
+    "student_id": "2d2002fc-ce41-4250-9f72-be70eb9912e2",
+    "percentage": 99.69,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "cbcedb33-8950-431c-b112-346be9734e92",
+    "student_id": "3282cf8d-4de1-4e2b-ab78-a7588a7d9ae9",
+    "percentage": 87.69,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "094045b7-7a5c-4ec7-a622-f619a5bb249a",
+    "student_id": "3b4bf572-5bc1-4d44-bd2d-bcc7c6885d04",
+    "percentage": 72.06,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "eb1b07c0-5bdc-40dd-b728-cd0a898b0fd5",
+    "student_id": "235682d6-25fc-41f9-bc4b-cf295ebacb5e",
+    "percentage": 72.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "810e1819-920b-46f8-83af-e401d0910fe0",
+    "student_id": "1355e8bd-9c26-40a2-b487-eb09dc583f32",
+    "percentage": 81.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "162829f0-80f1-4d97-8db3-3f1d43f49c30",
+    "student_id": "dfe80e55-3ec7-45fc-af66-3f4b54427c43",
+    "percentage": 98.85,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "9266d251-c170-415d-a016-6b62b352570b",
+    "student_id": "1171bddf-ec1d-4684-9635-23569533210b",
+    "percentage": 80.77,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "c95b2d43-6a03-4e00-8eb0-ab047fa96ac9",
+    "student_id": "930f788a-cbef-4100-a3bf-074ce2b34b59",
+    "percentage": 99.64,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "413e1491-750b-4bbd-8ad8-09b850d9cb3c",
+    "student_id": "43b7feea-b3f7-4b0f-a53f-0fe18fd173fd",
+    "percentage": 74.35,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "517ecf57-3f23-49d1-b6b2-d9fa6d9bf614",
+    "student_id": "13b3cebb-6565-4a90-b0e3-c78b35c30a53",
+    "percentage": 70.84,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "076c3512-cc4f-479e-ae85-525a2dacd901",
+    "student_id": "388a06cb-983f-49f3-ad0c-601528f09d6d",
+    "percentage": 93.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "98010e46-32b3-41cf-9efb-3e0f1b9ae80c",
+    "student_id": "ecbf8bcb-c855-4251-b687-da05f7128630",
+    "percentage": 88.55,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "a2090646-f1fd-45ce-ba13-299bfc44b4f6",
+    "student_id": "f37fe8fa-c891-4e81-be25-f6e731468281",
+    "percentage": 71.61,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "32f340c3-0916-45a6-974b-0688da9a214f",
+    "student_id": "0ea77138-ef78-4ba0-8e4c-fa7277e961d0",
+    "percentage": 84.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "80cfc0de-d230-4f94-ba0c-8dc9ed430bd3",
+    "student_id": "fe0bc03d-5849-4a77-9ebd-e2c119b7d977",
+    "percentage": 96.06,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "4bf18c59-940d-43a4-b1ba-d7a54126affd",
+    "student_id": "7debea1f-38b1-408f-b192-f50b6fa3ab19",
+    "percentage": 83.82,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "8a5908b0-f9bf-4178-9572-9f59b3409712",
+    "student_id": "2de11d9c-b4aa-490c-8914-cce0ff19a725",
+    "percentage": 73.05,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "259133ec-a629-4bca-863e-801b653a19ed",
+    "student_id": "6336f1f0-7072-4bd3-ae8c-e59078600a28",
+    "percentage": 79.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "887a951a-cbdb-4db1-8002-df983e743bce",
+    "student_id": "1fcb3fe5-8717-4c4d-8287-b5dafb0406a6",
+    "percentage": 81.61,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "64287603-e561-4770-8cdd-893c9d8f386a",
+    "student_id": "51c044ff-fcca-4663-b877-91e089923b0a",
+    "percentage": 77.17,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "dc6273e4-e64a-4d64-9aa4-b76091d53896",
+    "student_id": "840264f0-7415-4f0b-a6c1-90ec9cf3cb31",
+    "percentage": 90.1,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "6c8c8d4d-60c7-43a4-81dd-f422b072169c",
+    "student_id": "96d84653-b35e-4ee4-94cf-bd5f869f0480",
+    "percentage": 99.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.908Z"
+  },
+  {
+    "id": "61bffbd9-305e-4ada-9471-3eb2cb8cab88",
+    "student_id": "fa3cdaef-15bb-4a48-a98d-db2b59ed0f8a",
+    "percentage": 75.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "2489cbba-91cf-4b54-8c41-1274210b19d2",
+    "student_id": "2fc613d2-0c1e-4efd-8741-032673aed8c4",
+    "percentage": 90.75,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "056fe8b3-6f61-4a67-872b-c538f73dd990",
+    "student_id": "199b5be2-6fcf-456b-9d82-57672699af92",
+    "percentage": 75.46,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "887a8829-548a-4d55-bd5c-07ae107a3794",
+    "student_id": "93c1b428-1419-4f36-8166-fbac4a8384c1",
+    "percentage": 96.73,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "290a8e5f-7804-44af-9814-e671b63b6d77",
+    "student_id": "f935a93e-8461-431c-ad55-562e4d008265",
+    "percentage": 86.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "507b30c8-b535-4e4a-a49b-97027f00f331",
+    "student_id": "743200ad-f50e-4c86-be13-38b2a41a069d",
+    "percentage": 79.15,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "81e7f52b-2695-4f79-abfa-e24878575a88",
+    "student_id": "74f0a60a-13d8-4b84-af58-1e588e691720",
+    "percentage": 86.85,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "91564b2f-6a18-4578-b356-7b01ffad4bd1",
+    "student_id": "148dd356-b5ab-4b02-93f7-8178e2ae9bf5",
+    "percentage": 70.88,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "31f4fae2-bfe5-4e8d-9c62-023bad9be894",
+    "student_id": "0af23d4d-970e-4dae-8697-7a9865b38bcc",
+    "percentage": 78.99,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "39ae5b4d-7af9-4841-87cb-46b96cc77ed5",
+    "student_id": "18d945ab-f953-4849-8924-70610e04e193",
+    "percentage": 85.16,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "9dddcf23-1f52-4c88-b604-5e5326a73ba2",
+    "student_id": "03efbb3b-6d91-4dc4-bc42-a26b2b1f3b0e",
+    "percentage": 93.7,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "202a4693-7a85-42f5-b814-d068bb761448",
+    "student_id": "adc881e3-503a-40f0-a21d-0c531ce6beee",
+    "percentage": 88.52,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "5bcb8dff-6654-4b5e-b54b-975252dfe364",
+    "student_id": "36531d81-5967-4f3f-b804-3f718ecc7500",
+    "percentage": 95.03,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "97008eb5-e4fb-478b-bb22-899e0873315d",
+    "student_id": "ff8353f1-ab42-411a-bf92-73045eac3e89",
+    "percentage": 74.45,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "9139239a-83b9-4898-ab89-b7930b3092ef",
+    "student_id": "c3e086ff-f777-48aa-8cb6-c23b66fcae47",
+    "percentage": 95.97,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "b59bc654-8d26-43fe-9679-aae521daa078",
+    "student_id": "d6c8ca56-fb0e-4c73-ba81-d83ac56a809f",
+    "percentage": 73.22,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "b93b45ba-9c7d-409a-92de-1df2132d0a8c",
+    "student_id": "32fa093c-cae0-46f5-bf2d-c92724ba5ab3",
+    "percentage": 99.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "076e51cc-80ff-498c-a50e-75baee37e983",
+    "student_id": "346822b7-ad70-41ac-9d9b-85aea829cdad",
+    "percentage": 90.11,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.909Z"
+  },
+  {
+    "id": "9d1110c5-c603-41d8-aa62-19309b441f3d",
+    "student_id": "1758bf38-23fa-458b-b0ac-ecfcf3a0aa0d",
+    "percentage": 77.25,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "2532c142-c103-4fcd-bbec-1d12c73d33bb",
+    "student_id": "e27a9161-7b97-4a3a-b06a-84968104fa39",
+    "percentage": 88.58,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "a5fda08e-15a8-4ca7-b5c0-45ee68dbd2c8",
+    "student_id": "46c9bf76-0458-4798-8437-8c62d318dd26",
+    "percentage": 91.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "93eb583f-cd9b-4863-a232-bf390b904cfb",
+    "student_id": "69c5116d-740d-4c5c-8f78-038dac9997b7",
+    "percentage": 72.38,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "d7bd6b23-a372-4f58-a7e0-c9b8ef6d4f7b",
+    "student_id": "270aa867-0a72-4a0e-83b9-833a315d6833",
+    "percentage": 96.89,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "4af5ed09-02ed-4936-b1c2-18d7be03095c",
+    "student_id": "4356f75a-5e3d-4079-a7a3-05ba0ecea45b",
+    "percentage": 85.92,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "4698fcd8-8865-4a2a-a31c-73886afe49f7",
+    "student_id": "1549faa5-09d7-4de5-a873-8dc4f6ce8aae",
+    "percentage": 72.22,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "0fc8db00-2978-47f6-bcd8-7aa4987c128a",
+    "student_id": "b906dbbb-9aff-41ef-a3c9-da7b5ec0bc5a",
+    "percentage": 76.77,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "89a54719-1dfa-4e02-8197-5ddd6aa46329",
+    "student_id": "c0841c7a-621d-4876-89ea-bed324e45ea1",
+    "percentage": 79.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "dd27d9c3-84d2-4ee0-9ecb-3d861eb61e84",
+    "student_id": "8bfad197-83c9-449b-81ae-f32b5d08bb3c",
+    "percentage": 74.67,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "1418ec8e-22e4-4d60-8436-963d4c9f989b",
+    "student_id": "f2dda29a-3473-4a90-a626-1dd5a62880dd",
+    "percentage": 88.43,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "43111157-b5b8-4b5f-962f-a8a9b77e9dcb",
+    "student_id": "2673ad86-4ec8-4a4d-936b-0e6cbf3f4c2f",
+    "percentage": 87.54,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "402b2174-3ebb-481f-9fe4-e4840432ef8e",
+    "student_id": "694c1dc2-5d39-40c4-b035-d4c28b9114e6",
+    "percentage": 83.58,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "a474f43b-de87-4078-86e3-065259cabce6",
+    "student_id": "41be313a-48fd-4dc7-bb7d-5d0b568e439b",
+    "percentage": 96.76,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "24e49089-8fd3-4326-b704-0791b9fe8943",
+    "student_id": "b2b78578-2010-4cbd-a78c-c12565a3a1a0",
+    "percentage": 82.28,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "68c50de7-0583-4ece-97a8-da8b72921d07",
+    "student_id": "2dfaae4e-863a-4a11-ac6e-785efb1a246f",
+    "percentage": 80.98,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "a3709b4d-e3f8-4045-9475-f2242831601f",
+    "student_id": "3a2d3052-e05a-4ced-b3b9-b91ba6f12dc3",
+    "percentage": 71.96,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "2723899d-ba78-45b0-b889-18f98fbc6b0a",
+    "student_id": "b90b7895-0c1a-44a3-986a-fdd1d405d4d9",
+    "percentage": 89.59,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.910Z"
+  },
+  {
+    "id": "6e2a4072-6c0d-4fb3-92f3-facf06fbb1cf",
+    "student_id": "79a27658-0dd7-40c5-938b-5af6c9f28de7",
+    "percentage": 98.53,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "8ab23cb0-b6c4-4aed-9702-8c5affc100f8",
+    "student_id": "8353e376-64da-403e-916c-ed85a81833ce",
+    "percentage": 76.28,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "4c455029-0e17-4c40-a66b-274948788dae",
+    "student_id": "7c57309f-8f57-4b54-ab05-f74452ce31dc",
+    "percentage": 81.97,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "34893295-5245-471e-9871-e999954950df",
+    "student_id": "863d5a47-d4d4-4038-a488-e0f7217620c9",
+    "percentage": 84.73,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "49062675-09c5-4729-b663-875515632289",
+    "student_id": "074c9f93-9c7c-4a0f-b6e0-af51af9eabba",
+    "percentage": 87.89,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "a985e1cf-0cae-4569-b4ab-df1fed960676",
+    "student_id": "644c2935-7909-48a8-81a9-11edbc791c29",
+    "percentage": 92.55,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "5c5dd409-0c64-4efa-94db-f5171822f53c",
+    "student_id": "cec4ce9b-5ec8-48af-8095-5b03cf17ef5f",
+    "percentage": 76.22,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "b1eaf05d-2ba4-45e4-9757-1441de4e7158",
+    "student_id": "7f305b50-4960-4379-95ea-2c36da17d8d5",
+    "percentage": 70.32,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "4efec03d-8c11-4e43-9f70-1be28956c8b6",
+    "student_id": "b11506c8-0618-475f-ac6e-369a2fa836c2",
+    "percentage": 99.12,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "7e054ce3-2974-422e-bec3-5cfa315ca2cd",
+    "student_id": "5b84f7ec-1da3-41e4-a353-d786b472f22b",
+    "percentage": 71.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "6b66cb64-95d5-4753-99f5-c8974d3a997b",
+    "student_id": "0af7b366-d170-4b01-be6e-77a49d10f7a0",
+    "percentage": 80.11,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "b99271cd-f261-45ff-8129-bd9ae2292314",
+    "student_id": "f94c0b92-d385-49ba-9484-49844c946e9b",
+    "percentage": 71.34,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "b80a1f9c-fc88-486a-82c6-814b71318ac0",
+    "student_id": "3c970f7e-0353-4ec8-bcbc-bd51b8cde433",
+    "percentage": 94.12,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "32ffa95e-4779-408d-9c18-65fd8a4189b4",
+    "student_id": "da6b48b5-f935-4410-9903-45e6ecabd0db",
+    "percentage": 74.25,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "c88a1815-d462-47d8-89c2-b6e68d53b66a",
+    "student_id": "07ef99f0-5fda-491a-91a0-2b152e3e3adb",
+    "percentage": 85.08,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "45647056-e7a4-457a-a10d-071a7a41f5fd",
+    "student_id": "8750a216-ae0d-410d-a83a-f3938f005745",
+    "percentage": 94.59,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "cd18b4e8-eacf-4cf2-9c7e-0894b96757f7",
+    "student_id": "4a17c3b0-f74a-47da-91aa-e27b4ff0a738",
+    "percentage": 74.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "6d6edbe0-6a89-4436-a9eb-50a310d00069",
+    "student_id": "a5d93cca-0373-4c41-9cbb-264c282cf67c",
+    "percentage": 79.18,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "a4523f11-da3f-43ba-ac33-7e6ab66eca93",
+    "student_id": "ed308b01-8ecd-4906-a577-94e2041fc65f",
+    "percentage": 80.44,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.911Z"
+  },
+  {
+    "id": "cbccf3e0-9918-44e1-91b8-097bb73a41f3",
+    "student_id": "4c633d4a-5294-49e1-97ce-bd24235488a1",
+    "percentage": 95.31,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "12803d19-531b-490b-b3ec-695523fd544d",
+    "student_id": "1e6aca77-41bf-4491-b917-9b36a4ca4849",
+    "percentage": 87.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "07abbd0f-0731-4b8d-9a9f-f513eb3eae8c",
+    "student_id": "5a9ca658-5954-49f8-a1dd-c204ed1188b4",
+    "percentage": 74.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "fd35f904-fc96-48c2-b87d-f3d47ac3ba21",
+    "student_id": "70f22e06-3025-49d0-a78c-1369a3e93d35",
+    "percentage": 76.47,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "f065393b-a1c6-4344-8a35-5eac4b1700dd",
+    "student_id": "be9ab65a-c23d-46fe-b1ff-2ec3a2f10e54",
+    "percentage": 72.95,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "9798cb8e-d86b-46dd-bd7c-068b53e1d2d7",
+    "student_id": "99f7b70f-5359-4090-be57-9455d7179a67",
+    "percentage": 96.67,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "a2d4ac68-02ae-4ef6-89bd-39aa914348ab",
+    "student_id": "f83b3e9c-03c6-46af-a179-1c57deb3d3e2",
+    "percentage": 86.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "45d45eb9-3830-421a-bdb4-debf52c467ee",
+    "student_id": "e14d0733-63ef-475a-976a-11501fa35a8b",
+    "percentage": 74.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "49f7f5e3-e064-4d42-9a75-fab14af46e6a",
+    "student_id": "bc19cce1-32e5-4f65-9dd5-9c33ed71e8e2",
+    "percentage": 70.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "87e58f98-943b-4a99-bcd6-cc8cb4e425d9",
+    "student_id": "3984ad83-9d73-41da-8b4e-01adab49c2a2",
+    "percentage": 88,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "3ae150f4-0af3-4cbe-8d6c-2f7a907192e7",
+    "student_id": "c1bdf970-3120-48ce-9e61-071e7e3bcffd",
+    "percentage": 98.96,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "9d26abb0-a845-4cb0-a0fd-5ea5729ed9e2",
+    "student_id": "ced085e8-d4cf-47ea-9e07-9851cedb79f0",
+    "percentage": 88.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "f6f86104-bd30-4348-a1cd-4d6d48f5f3cb",
+    "student_id": "088a4b98-66c7-400b-b7f5-1b626fdee2fc",
+    "percentage": 72.28,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "eac392e2-5e9a-4ebe-b7ac-6b1a2ee8e0ff",
+    "student_id": "18394a04-16e4-4741-ae5a-22fca98556b2",
+    "percentage": 76.52,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "8adb8410-4b11-45e7-a36f-129e2bbb8179",
+    "student_id": "7e1d91d1-8b3a-4291-a6d9-e555f129c2fa",
+    "percentage": 70.47,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "eb42e63e-dbf7-4026-bb75-e0c88ba29871",
+    "student_id": "01378135-823a-4e1d-a05c-b370495dee0b",
+    "percentage": 96.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "e7cf6d84-7c20-437a-bfaf-0a8457abd285",
+    "student_id": "8b0fc833-346b-4534-a057-d0f92051b73d",
+    "percentage": 78.09,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "e51329e2-28c4-489d-9a22-1a3f3a4c67b9",
+    "student_id": "2e8e3c91-8fcd-4d86-afff-f26d491d8f0d",
+    "percentage": 71.37,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "aae21e0b-e53e-4dca-b4de-c34787cbdd0b",
+    "student_id": "b9e2f8fd-1f5d-4834-b18e-d9a177ab7ef9",
+    "percentage": 99.46,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "cbae21f8-5c96-4a77-b159-53e03d854876",
+    "student_id": "75521da4-09f7-46e2-8fe0-e38367eb038e",
+    "percentage": 74.35,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "6d80c251-9756-4202-998f-eaeff4614f25",
+    "student_id": "716d7b7a-c899-4eac-b021-42de0daf822e",
+    "percentage": 96.91,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.912Z"
+  },
+  {
+    "id": "c282e798-394e-4dbf-ae37-9d50735efb71",
+    "student_id": "8ed2dbed-189e-4bd7-83aa-a4e2fc088410",
+    "percentage": 87.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "1fb0f5e4-bfde-4469-835a-302541e0e333",
+    "student_id": "d4d8ad7b-4775-4c21-a7fa-f999fb09b2a8",
+    "percentage": 84.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "4f1f9af8-e0d6-42bb-bd8d-cc532917fb48",
+    "student_id": "4caa4c55-02da-4d00-b61f-92ed5d23cd98",
+    "percentage": 95.33,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "d2e21a2c-0d63-48bf-84cd-cc2a384c786b",
+    "student_id": "9944f055-7382-43a2-8470-33c1cca8ba17",
+    "percentage": 80.73,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "64aba0f9-bd4c-4b13-857d-a09d286b8fed",
+    "student_id": "017226fc-c3b8-4452-8d75-572917411367",
+    "percentage": 93.52,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "c0ad86b2-0cbc-410f-8df1-ce6590732f70",
+    "student_id": "6ac1b328-56d9-4256-9333-f49f06a1070e",
+    "percentage": 99.5,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "737c5381-50a6-4c5d-8773-84762b6cac8c",
+    "student_id": "4007d941-a16e-48e7-80b1-f9751bee69be",
+    "percentage": 91.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "f3e9961a-d99c-4592-89bd-fc69d9ea7939",
+    "student_id": "0256b720-6ddd-40a8-808c-7ef3b0b9368a",
+    "percentage": 76.75,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "63cdf7be-296a-4ba4-ad2b-cf34bb5278d6",
+    "student_id": "ff15c29c-1013-432f-afbc-49c904ea2dda",
+    "percentage": 94.51,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "37e750a0-cae1-4fe2-be4f-cd1b68bb3c88",
+    "student_id": "f35c58df-303c-4452-9618-f17ec325f388",
+    "percentage": 98.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "e95f91f6-1ebf-4ae2-b275-768568e88904",
+    "student_id": "0b1f3dee-48a9-4fc6-9344-df723b437aaa",
+    "percentage": 94.15,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "4d29d861-9bef-45c5-98f6-88dad9213dd1",
+    "student_id": "392c9aa8-f3ef-442f-926e-ad9fbb81f034",
+    "percentage": 92.88,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "c4e8cfb5-4f43-44b9-b608-66278e8bd047",
+    "student_id": "f72b1675-5526-45e9-b1eb-b2bda20d2246",
+    "percentage": 76.12,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "963eef3c-5d3e-4ec5-96bb-fd18739c76d9",
+    "student_id": "402a770a-4308-450c-a070-f25e3282ee0a",
+    "percentage": 92.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "a3b9fa51-8d1c-482f-9b40-27a8139a6721",
+    "student_id": "51f4930f-ba76-4bc8-9cd5-6173d6dc7ce6",
+    "percentage": 79.15,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "7d83a43b-747d-493a-8330-8584566ffc94",
+    "student_id": "692d6c7f-b3cb-4f0d-b8ac-ea5e774c8f65",
+    "percentage": 75.59,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "6ebaeb61-294f-4539-a4c1-003e2f6e83b1",
+    "student_id": "0f2e5028-7eb6-45a7-9720-e4483beace5f",
+    "percentage": 85.52,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "b944d7c9-e811-4458-b069-8f55f741183f",
+    "student_id": "83d635bc-c4c4-4226-8332-d8e161cd164a",
+    "percentage": 76.71,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "aad96fdd-8f89-454d-9a81-7391777eceba",
+    "student_id": "c49c326a-48a2-4fdc-83b0-9267bd421c4c",
+    "percentage": 88.22,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "75b43f2b-4673-4945-b3d1-e163e71eaab0",
+    "student_id": "3fc214c3-5666-460a-950d-05d61dfb6871",
+    "percentage": 75.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "35f5f282-391d-4046-b9ee-f3dd00312fcb",
+    "student_id": "8fdb4871-76bd-4297-9221-6d34619fcd10",
+    "percentage": 87.06,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "e65bf899-2976-4577-abf0-949c16fc857d",
+    "student_id": "b51632b9-19b8-4f2e-bcae-058409262c11",
+    "percentage": 86.72,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "547deef0-0129-4dec-8d91-d305d9b80bec",
+    "student_id": "bf223baa-e64b-4be7-be85-211d1a90c94f",
+    "percentage": 78.65,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "7aa40599-4582-44b1-ae7b-d0ce27012c32",
+    "student_id": "ea9dc4b1-3460-4365-9271-1aa510f3a2d3",
+    "percentage": 96.04,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "af53efc7-e3dd-4409-8a18-fc26f8ec0372",
+    "student_id": "39530a03-b1cc-40f6-be80-e0bf87c3ef64",
+    "percentage": 88.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "caf02c30-1e2b-454c-9c34-4f734ca3172d",
+    "student_id": "34f92eb3-5e93-47c6-8f95-073ae1c4e253",
+    "percentage": 84.54,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "84609824-33a7-4327-8385-40a980a5ce09",
+    "student_id": "35779da5-8a8f-43b4-89f6-cdfb1ab664db",
+    "percentage": 76.33,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "b066828d-93d6-4dd1-88ad-8f2bbfcb1149",
+    "student_id": "b0d9ea15-4688-4122-a876-74c75052ffef",
+    "percentage": 92.1,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "4a870585-acd3-473f-95d2-786b08c7ec77",
+    "student_id": "7f786bf0-c71a-4b92-9601-98db9e1b024d",
+    "percentage": 73.55,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "c4a623b6-8140-4e3b-aec6-323472fc875e",
+    "student_id": "78bbfa38-c991-41ac-be06-beca82e353e4",
+    "percentage": 91.96,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "a090d4fa-e72e-4827-82f3-425d434251ef",
+    "student_id": "53e5f1bf-d414-498f-9c61-7505ce629a5d",
+    "percentage": 82.62,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "548bd230-1645-459a-8939-08539747b9a3",
+    "student_id": "bfa96dc7-f6ae-483b-b321-8ecafd5b5084",
+    "percentage": 89.82,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "0e3b4eeb-67aa-4e84-b3bc-86b8fdd269b1",
+    "student_id": "40e8cec7-e0b3-4988-a8ab-e055db192fd2",
+    "percentage": 84.61,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "e88a2a83-0ea6-4da0-8682-d694e0cb0f4c",
+    "student_id": "e6a0f700-4991-45c7-9bbb-2ac35d6e0174",
+    "percentage": 72.14,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "6475bb6a-7baa-48d2-81c4-c0a84c33393d",
+    "student_id": "5c55111f-df4a-4d12-b68a-034c6c1383a9",
+    "percentage": 90.63,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "3e0b9c65-30fa-40bf-b2b3-9b692aef0add",
+    "student_id": "d1ddf467-70b8-410a-9e82-e6eb7db6832a",
+    "percentage": 83.01,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "b26f024a-a772-488e-b5ef-b3e20819efae",
+    "student_id": "0931857e-6823-4bf4-a303-efd39db5096a",
+    "percentage": 86.94,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "a18b4612-6642-409f-a877-0b544fd237f3",
+    "student_id": "1825894c-1633-40b4-8a2a-fc2dee769517",
+    "percentage": 89.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.913Z"
+  },
+  {
+    "id": "69afc250-f19b-4a93-a859-69fb3718332d",
+    "student_id": "c39f0042-c3f4-4f06-98ef-66681f15c520",
+    "percentage": 80,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f04cc294-4320-4a3a-a6b0-3e6979af9173",
+    "student_id": "b0bb7a11-f4bc-4230-a63e-aba26a22028e",
+    "percentage": 82.61,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "eaa013e8-cc44-47f4-8e0c-59d05a9d1835",
+    "student_id": "4b9114bf-0372-4cfe-a871-56cf8852cd41",
+    "percentage": 87.03,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c53ba8c4-84b4-46b7-b618-532724ce6611",
+    "student_id": "42fb35ae-a74f-4c5b-a7cd-7e1e75d10a7e",
+    "percentage": 82.48,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "634cd7bf-0cb6-49e3-bdaf-b6e78329c340",
+    "student_id": "50a1109e-2233-42c3-939e-ba9600a5cdd8",
+    "percentage": 98.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "51cd6e3d-3fc9-4f85-8f76-7f5ee6a1c308",
+    "student_id": "d8162e44-dce5-41ba-b79f-711693205549",
+    "percentage": 74.14,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d5a5e357-9753-41cf-a49b-7dcac2d9717b",
+    "student_id": "068b8e53-c54d-44d6-b72f-73d6c96dc3db",
+    "percentage": 75.03,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "23e7bfbd-56e4-424f-9a09-7e530fcc8e70",
+    "student_id": "d73c9a44-9dec-4665-a0e9-58f362c86b29",
+    "percentage": 74.27,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2cfc6615-a832-4c18-a13d-e1c1dac4b312",
+    "student_id": "5ef61911-6baf-408d-ba80-3a83e174865f",
+    "percentage": 91.97,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f51f6fbd-56d3-476c-a61f-2415fe1ab737",
+    "student_id": "892e5019-e268-4a65-aba2-d647ec91ff48",
+    "percentage": 78.88,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "862a7ca8-ae2b-45d8-88cf-7ea25e375dbf",
+    "student_id": "acae24ab-6c8b-4883-bdca-09df1cdccf3d",
+    "percentage": 76.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "bc1e1385-683f-4b72-b340-064162cd4b31",
+    "student_id": "04522e15-7df9-4da2-bed0-c7800453c4b7",
+    "percentage": 92.87,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a517fdc8-4b2f-4060-912b-74d88bc2df13",
+    "student_id": "6d698a3f-3f3d-404d-b3cd-128d584ebba6",
+    "percentage": 91.45,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "bd415c08-8a20-4204-b390-88d50ea8ee53",
+    "student_id": "9967c0f9-5d62-4143-b397-c49a8140fd0b",
+    "percentage": 94.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e88bf3bd-9449-47f4-b672-402211794898",
+    "student_id": "36ba1274-e378-4a2c-94cf-2f7ef2bf1710",
+    "percentage": 81.81,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "fe0f2a81-bfea-48ab-a153-9a76ca8391bb",
+    "student_id": "094a096d-43d5-4314-87cd-b83716fe8902",
+    "percentage": 72.58,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "94d3ae98-63ac-45e7-b2cf-4e317f3e21a7",
+    "student_id": "677131f4-0a13-4b98-803c-ff72c8e487d6",
+    "percentage": 87.41,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c8cd7036-25df-4423-ad89-a27f36fa8cf7",
+    "student_id": "13cb4495-002d-426b-98e8-52b6eba2b3f1",
+    "percentage": 77.86,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "4d218bba-ca00-454b-9e11-a55ab8f24fe2",
+    "student_id": "6fb1afa7-c646-4ec8-a950-2ebb660cd71f",
+    "percentage": 95.68,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "17729d04-0c91-4baf-a700-2d47bfa48cd4",
+    "student_id": "f0eab2ea-0318-42ef-9212-0dbe96614f95",
+    "percentage": 81.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "9c2a50e8-85c8-4ec8-a2ec-a035cfda0d0b",
+    "student_id": "ad8e935a-aaea-448e-b677-062f9f318d8d",
+    "percentage": 90.16,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0ec2e12e-99bf-496d-a4e8-985a4b14f237",
+    "student_id": "39d2dc99-c719-4a42-a7cf-ef5f5dbb9f90",
+    "percentage": 77.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "ce761ed2-8d9e-46a0-8a32-731d79041aa6",
+    "student_id": "806861fe-7802-4c9b-adbe-1ec0ebd5f5cb",
+    "percentage": 96.98,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f9a8dd77-9a02-49fd-9798-54afd8d50d9f",
+    "student_id": "83b4df41-3a31-4478-a4f6-9daed63ed0ff",
+    "percentage": 90.44,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "304c37ac-661a-4596-99e5-e2b15c9e21d1",
+    "student_id": "11052fc3-43dc-4f7f-b28e-3c123833ddac",
+    "percentage": 99,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7bc04ed0-c1c3-4439-bd9e-d3d59870e550",
+    "student_id": "caddf898-b123-4dc5-95eb-e8c139be0e19",
+    "percentage": 80.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "b3dba44e-46c4-40b4-8caf-e28e72552680",
+    "student_id": "8faae584-82d8-4057-a0a5-516e0b752619",
+    "percentage": 93.91,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6aa27216-4542-43c8-a85b-2f55b26cab1b",
+    "student_id": "8297fba0-6d36-4ddb-a724-9f75594cbcf1",
+    "percentage": 76.43,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2f48be27-5598-4130-872d-4e2fb5eb228d",
+    "student_id": "1e74f777-e371-4cb3-8218-d2ac936dd029",
+    "percentage": 99.33,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c3ed5bd7-ad67-432d-abcb-31528e4b4364",
+    "student_id": "5f4be22f-6dd6-4840-922b-1e6a4301e1ec",
+    "percentage": 95.21,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "3e8115fa-dcd1-4744-9ab4-8a173bcb18fa",
+    "student_id": "e115634b-afd8-425b-8e9d-b98df4e88e88",
+    "percentage": 96.51,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7d970c4b-3c9f-4b8f-aee9-e98f4c40b3c8",
+    "student_id": "6c817983-25cb-4e82-a4d1-bac098eccad6",
+    "percentage": 70.01,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c6b6010b-ca75-423f-8d2f-95a309810ace",
+    "student_id": "c0797317-d528-47bf-bd87-af6d61922d11",
+    "percentage": 90.94,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "652245be-6d7b-4845-aa6c-27777b066c0a",
+    "student_id": "fe93b38f-81f8-4905-9e83-30c52c122e5a",
+    "percentage": 93.78,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0b39fef2-6b19-455b-a851-4848381578b6",
+    "student_id": "013660cb-b914-4bb4-b18e-20446790c3c0",
+    "percentage": 97.71,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "1fbd7454-63a2-4db3-8573-4d2f2bcdc69a",
+    "student_id": "3f22488e-b87a-40b0-a865-99834f10da5c",
+    "percentage": 99.76,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f6c0a5c3-4d87-49eb-8449-bdae4a81b587",
+    "student_id": "5c9ac32d-afc7-4040-85b3-4ae12e9f2a89",
+    "percentage": 74.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "f919ee82-9ee3-44f8-931f-88f12758716e",
+    "student_id": "9ac9d712-e34b-41dc-8b09-ada3077f9379",
+    "percentage": 71.81,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "5401e49f-325f-4b65-a519-cd1e766cdb4e",
+    "student_id": "a3bb7ec4-57d7-4341-b9e2-a3cff7556ea7",
+    "percentage": 97.04,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "49056234-71c8-439d-bfdc-4553837718d8",
+    "student_id": "95e27032-c876-40cc-a948-36cae50bf9c5",
+    "percentage": 96.13,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6763dda2-1ba4-4c4e-8d00-fb901eefd5f1",
+    "student_id": "3a91a60f-5836-4f5c-bea1-b61dd69c7542",
+    "percentage": 70.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a0f358ef-c65d-40a8-bee6-28478e94546a",
+    "student_id": "cc77892a-06f9-4394-ab72-bb3c5bb8ebbf",
+    "percentage": 81.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "33583736-4bc6-4cb9-b1d9-798253b0bd48",
+    "student_id": "273fcf00-3e1f-4a53-a3af-09854562b830",
+    "percentage": 74.29,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "2f35c071-1fc2-477e-aa52-d3ded8702c22",
+    "student_id": "8ddf2b69-dfe8-4a38-b204-af9245e07b28",
+    "percentage": 72.44,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "eba1fdc4-e184-4eac-be77-34c27059770c",
+    "student_id": "dc08558c-d55b-4576-a264-8731eea634f1",
+    "percentage": 74.74,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "135f422d-e31f-45ae-9755-a9d23ff38dbf",
+    "student_id": "af12a650-3876-4420-8e39-697489ec6e67",
+    "percentage": 80.41,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "58091969-6ad0-4ee7-bcac-1758521d6319",
+    "student_id": "3cdc432b-b33a-4d61-b764-ab0f0f457fc7",
+    "percentage": 71.8,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c63e8979-9909-4053-95a5-b9257c0f9ed6",
+    "student_id": "30c48c24-788b-4516-95eb-27d0b2b39284",
+    "percentage": 72.23,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "ebdef749-1ecb-43c6-a6af-72a649514a46",
+    "student_id": "9cf2fb7f-db12-4ac8-9df0-79addb088540",
+    "percentage": 77.97,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a823d91d-635f-45da-8b52-1fe768c46af7",
+    "student_id": "1ad17f50-e1b5-4ad1-8bde-721df5697ea4",
+    "percentage": 71.45,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "93ee1d89-8ee6-42c2-b77a-a3c0a023ff7e",
+    "student_id": "1e88e429-b373-46b0-874c-2be7203a0d5e",
+    "percentage": 87.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a6a68d22-2af3-433d-b91a-8813e49161c9",
+    "student_id": "2872a407-4f19-4824-9dcd-1a71ee1da4d0",
+    "percentage": 80.86,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "81e64b92-361a-42aa-a485-45368329bab4",
+    "student_id": "73675549-d0e1-4167-a579-aa9551b6868a",
+    "percentage": 78.79,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e8bd7193-5388-4b2e-9b9c-0d127fc03eaa",
+    "student_id": "76e5e6eb-a5ef-4a00-952e-fdc0951770a2",
+    "percentage": 79.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "389f0d08-7e6d-4f04-8d62-d752fe872870",
+    "student_id": "6d4f6ec5-792c-48d1-a725-f4ef812cc0ad",
+    "percentage": 98.41,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "cbb5599a-19f7-4e76-9b89-7e4a40a28bfa",
+    "student_id": "84cc8879-facb-4c66-b0f4-1ab1875d12da",
+    "percentage": 71.42,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c0935622-1a5f-4d1e-aa27-5347e27b873c",
+    "student_id": "0284d2ae-c3eb-4cb0-83ea-4f17d4c97afd",
+    "percentage": 96.6,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "926f1c34-2604-4f91-8122-2a2aa021fa1d",
+    "student_id": "df16394d-89ee-41e5-ad0a-28387ff3aa87",
+    "percentage": 72.76,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e987fb2b-cdc6-4ef0-a7c5-a801bbdf479f",
+    "student_id": "e8cec2d3-e68d-4e7f-9f52-efc8f41645bb",
+    "percentage": 86.4,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c3ee3cff-a5b9-4d67-b15d-0beef014f6f8",
+    "student_id": "2c54883b-6df2-4e38-9da0-bd86d4c9d90e",
+    "percentage": 79.78,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6ab95c07-6da8-4476-a572-85a8680f905c",
+    "student_id": "12ffa12e-9dae-4df9-b8ba-dd14f21c2a8d",
+    "percentage": 90.11,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a54830eb-9c95-4442-81c7-5cfce1403fc5",
+    "student_id": "7acaa451-5470-4d59-a23c-32e8400d9e6c",
+    "percentage": 70.14,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8eb33ed9-b594-4da9-8c9c-5872cc226b62",
+    "student_id": "3ef7a114-31b4-41df-8e0e-2fba45f41d90",
+    "percentage": 76.73,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0d639805-1b75-4c84-9a43-3dd8dacc276e",
+    "student_id": "77612e23-df72-4ba5-be68-c6392e0b28fd",
+    "percentage": 79.71,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "5c1713f2-7bd2-49c1-a8af-a8462dd475f1",
+    "student_id": "0b2101ec-7c15-4696-8514-7587124168e3",
+    "percentage": 89.57,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "e5126a9d-6fa4-464f-b7cc-9aef102d923b",
+    "student_id": "afa6f502-ff35-4174-823c-9fb4aaca05b7",
+    "percentage": 72.37,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d6f596b0-540e-41a7-847c-d32ff4fcad3c",
+    "student_id": "6d6d314c-d3f5-4817-a940-7e8e969092d3",
+    "percentage": 95.62,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "d31ef6da-0f07-4603-ae75-4865308d7536",
+    "student_id": "8ef3f476-6f82-4e0e-9869-02df8c690957",
+    "percentage": 81.93,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "de2daed5-d895-4e75-ada3-715d9244baac",
+    "student_id": "eb00b889-eb43-4c6e-8bcc-f3e5875d5915",
+    "percentage": 76.87,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "a6877fbc-1ee4-4f54-bf46-9c55bfd74a7a",
+    "student_id": "ec84b78c-3baf-4550-80c8-61693abc2a37",
+    "percentage": 95.37,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "542a675e-cc22-4306-a1a5-d4fcf51881cb",
+    "student_id": "d52fee79-7d25-4388-8338-31f5dda7618f",
+    "percentage": 93.99,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "616547b3-c482-4889-803a-63254c5f4621",
+    "student_id": "7e1457b4-138e-41ae-9574-0b85ce8331f9",
+    "percentage": 83.69,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "452f47cf-3941-4eff-aa8f-0bd2b9e25391",
+    "student_id": "3d962268-a597-418c-b696-5e73db73fd08",
+    "percentage": 91.58,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "01d124ea-4493-430d-afbe-12c6882aae45",
+    "student_id": "a3c4c666-2ea2-411f-88f3-6027aa8ff4bd",
+    "percentage": 94.85,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "28478aa4-7f8a-4670-9ae9-5aff9a7b643a",
+    "student_id": "d0311dc0-cb92-4b64-88f2-1e901641a51b",
+    "percentage": 91.91,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "128623a1-593d-4758-9aa1-f4cfa9799b01",
+    "student_id": "5c4889ba-66ca-42f7-9c40-6f336c2670b5",
+    "percentage": 75.82,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "da45c093-0f20-4652-aa0d-5f009b2702ed",
+    "student_id": "fbbc73c5-81d2-404e-b7e6-173e53e487f2",
+    "percentage": 71.9,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "dea983b8-fe12-459e-be4f-b1d477489c97",
+    "student_id": "d8908f41-5167-46a1-8b04-10ce7e07c46a",
+    "percentage": 94.78,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "44075337-fe0e-4a46-8f0c-a9a35efe2410",
+    "student_id": "2fd97bc3-b5ed-48cd-8ff1-8602c26f03f0",
+    "percentage": 86.44,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "8bbafdac-7fe9-4f02-a48c-098a08afdd7e",
+    "student_id": "ae786161-3783-4a54-8512-6f9dfc7623d8",
+    "percentage": 78.01,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "0b1b5f76-89e6-4ffc-9c50-30095ace1afd",
+    "student_id": "7bfaf81d-8e3e-42de-9bb8-3e7358a9cabd",
+    "percentage": 87.76,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "728637a1-a937-4c85-8a5c-25d7c5ae7d13",
+    "student_id": "80a2e668-d706-498a-a108-83f8831abbcc",
+    "percentage": 72.74,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "172532b3-3137-4224-b97d-448c1d0819fc",
+    "student_id": "6ff664f2-355b-458b-a9ac-3de7cf1ea964",
+    "percentage": 84.91,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "49a40556-3fae-45f6-a998-ccf8d58337ce",
+    "student_id": "d8ec9400-feb6-43cc-8f3e-23195e0bfb63",
+    "percentage": 76.85,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "c5f4bf19-1104-481c-989c-9af3851072d3",
+    "student_id": "9bec62c9-bbbf-4b15-becc-4b34de57ce4a",
+    "percentage": 73.56,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6aace37f-7e46-4c22-af4b-88f52423e374",
+    "student_id": "eceb6be2-ea3f-4cf6-b742-a6217bdb1cdd",
+    "percentage": 95.09,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "fadf0368-d2f2-4325-8355-4b2ce0ce516c",
+    "student_id": "446652eb-196e-43f4-9c22-1e854f473c50",
+    "percentage": 82.06,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "7c4a3f7c-307e-481d-a457-af3dc8f8dd75",
+    "student_id": "ac4aa26e-5beb-45ab-aafb-a2d296dba3a5",
+    "percentage": 87.06,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "b9660fca-00b0-4edf-945b-5710ec6e8321",
+    "student_id": "94b9b2aa-b2b2-4da8-a080-562807da99f0",
+    "percentage": 74.53,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.914Z"
+  },
+  {
+    "id": "6d32ef9c-b6af-44eb-9bcb-17bf0d09a428",
+    "student_id": "9ab9ca1c-3c49-4e88-b1c2-4a4a4f3d12b5",
+    "percentage": 96.84,
+    "courses": {
+      "code": "CSE1001",
+      "name": "Problem Solving and Programming"
+    },
+    "created_at": "2026-08-14T03:16:02.915Z"
+  }
+]

@@ -7,7 +7,8 @@ import Students from './pages/Students';
 import Student360 from './pages/Student360';
 import Academic from './pages/Academic';
 import Attendance from './pages/Attendance';
-import Requests from './pages/Requests';
+import LeaveRequests from './pages/LeaveRequests';
+import OutingRequests from './pages/OutingRequests';
 import Hostel from './pages/Hostel';
 import Mentoring from './pages/Mentoring';
 import Alumni from './pages/Alumni';
@@ -21,7 +22,6 @@ import FormsDashboard from './pages/Forms/FormsDashboard';
 import LaunchForm from './pages/Forms/LaunchForm';
 import FormSubmissions from './pages/Forms/FormSubmissions';
 import SubmissionReview from './pages/Forms/SubmissionReview';
-
 function App() {
   return (
     <AuthProvider>
@@ -35,7 +35,8 @@ function App() {
             <Route path="students/:id" element={<Student360 />} />
             <Route path="academic" element={<Academic />} />
             <Route path="attendance" element={<Attendance />} />
-            <Route path="leave-outing" element={<Requests />} />
+            <Route path="leave" element={<LeaveRequests />} />
+            <Route path="outing" element={<OutingRequests />} />
             <Route path="hostel" element={<Hostel />} />
             <Route path="mentoring" element={<Mentoring />} />
             <Route path="alumni" element={<Alumni />} />

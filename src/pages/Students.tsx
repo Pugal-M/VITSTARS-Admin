@@ -15,23 +15,10 @@ export default function Students() {
   const [isCreating, setIsCreating] = useState(false);
   const [createMessage, setCreateMessage] = useState<{type: 'success' | 'error', text: string} | null>(null);
 
-  // Delete Student Modal State
-  const [studentToDelete, setStudentToDelete] = useState<any>(null);
-  const [isDeleting, setIsDeleting] = useState(false);
-  const [deleteMessage, setDeleteMessage] = useState<{type: 'success' | 'error', text: string} | null>(null);
-
-  // Dropdown Menu State
-  const [openMenuId, setOpenMenuId] = useState<string | null>(null);
-
   const navigate = useNavigate();
 
   useEffect(() => {
     fetchStudents();
-    
-    // Close dropdown when clicking outside
-    const handleClickOutside = () => setOpenMenuId(null);
-    document.addEventListener('click', handleClickOutside);
-    return () => document.removeEventListener('click', handleClickOutside);
   }, []);
 
   const fetchStudents = async () => {
@@ -81,42 +68,14 @@ export default function Students() {
     }
   };
 
-  const handleDeleteStudent = async () => {
-    if (!studentToDelete) return;
-
-    setIsDeleting(true);
-    setDeleteMessage(null);
-
-    try {
-      const { error } = await supabase.rpc('delete_student_user', {
-        p_user_id: studentToDelete.id
-      });
-
-      if (error) throw error;
-
-      setDeleteMessage({ type: 'success', text: `Student ${studentToDelete.name} has been deleted.` });
-      // Refresh list
-      fetchStudents();
-      
-      // Close modal after a short delay
-      setTimeout(() => {
-        setStudentToDelete(null);
-        setDeleteMessage(null);
-      }, 1500);
-      
-    } catch (err: any) {
-      console.error('Failed to delete student:', err);
-      setDeleteMessage({ type: 'error', text: err.message || 'Failed to delete student.' });
-    } finally {
-      setIsDeleting(false);
-    }
-  };
 
 
-  const filteredStudents = students.filter(s => 
-    s.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
-    s.register_number.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  const filteredStudents = students.filter(s => {
+    const name = s.name || s.full_name || '';
+    const regNo = s.register_number || '';
+    return name.toLowerCase().includes(searchTerm.toLowerCase()) || 
+           regNo.toLowerCase().includes(searchTerm.toLowerCase());
+  });
 
   return (
     <div className="animate-fade-in">
@@ -175,7 +134,7 @@ export default function Students() {
                   <tr key={student.id} onClick={() => navigate(`/students/${student.id}`)} style={{ cursor: 'pointer' }}>
                     <td style={{ fontWeight: 500 }}>{student.register_number?.toUpperCase()}</td>
                     <td>
-                      <div>{student.name}</div>
+                      <div>{student.name || student.full_name || 'N/A'}</div>
                     </td>
                     <td>
                       <div>{student.programs?.name || 'N/A'}</div>
@@ -187,54 +146,17 @@ export default function Students() {
                         {student.status}
                       </span>
                     </td>
-                    <td style={{ position: 'relative' }}>
-                      <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
-                        <button 
-                          className="btn btn-outline" 
-                          style={{ padding: '4px', border: 'none' }} 
-                          onClick={(e) => { 
-                            e.stopPropagation(); 
-                            setOpenMenuId(openMenuId === student.id ? null : student.id); 
-                          }}
-                        >
-                          <MoreVertical size={16} />
-                        </button>
-                        
-                        {openMenuId === student.id && (
-                          <div style={{ 
-                            position: 'absolute', 
-                            right: '30px', 
-                            top: '50%', 
-                            transform: 'translateY(-50%)', 
-                            backgroundColor: 'var(--color-bg-main)', 
-                            border: '1px solid var(--color-border)', 
-                            borderRadius: 'var(--border-radius-md)', 
-                            boxShadow: 'var(--shadow-md)',
-                            zIndex: 10,
-                            display: 'flex',
-                            flexDirection: 'column',
-                            minWidth: '140px',
-                            overflow: 'hidden'
-                          }}>
-                            <button 
-                              style={{ padding: '10px 16px', textAlign: 'left', background: 'none', border: 'none', borderBottom: '1px solid var(--color-border)', cursor: 'pointer', fontSize: '0.875rem', color: 'var(--color-text-main)' }}
-                              onClick={(e) => { e.stopPropagation(); navigate(`/students/${student.id}`); setOpenMenuId(null); }}
-                              onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'var(--color-bg-secondary)'}
-                              onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'transparent'}
-                            >
-                              View Details
-                            </button>
-                            <button 
-                              style={{ padding: '10px 16px', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer', fontSize: '0.875rem', color: 'var(--color-status-critical)' }}
-                              onClick={(e) => { e.stopPropagation(); setStudentToDelete(student); setOpenMenuId(null); }}
-                              onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'var(--color-status-critical-bg)'}
-                              onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'transparent'}
-                            >
-                              Delete
-                            </button>
-                          </div>
-                        )}
-                      </div>
+                    <td>
+                      <button 
+                        className="btn btn-outline" 
+                        style={{ padding: '6px 12px', fontSize: '0.875rem' }} 
+                        onClick={(e) => { 
+                          e.stopPropagation(); 
+                          navigate(`/students/${student.id}`); 
+                        }}
+                      >
+                        View Details
+                      </button>
                     </td>
                   </tr>
                 ))
@@ -311,41 +233,7 @@ export default function Students() {
         </div>
       )}
 
-      {/* Delete Confirmation Modal */}
-      {studentToDelete && (
-        <div style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(15, 23, 42, 0.6)', display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 100 }}>
-          <div className="card" style={{ width: '100%', maxWidth: '400px', margin: 'var(--spacing-4)' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'var(--spacing-6)' }}>
-              <h2 style={{ margin: 0, fontSize: '1.25rem', display: 'flex', alignItems: 'center', gap: '8px', color: 'var(--color-status-critical)' }}>
-                <AlertTriangle size={20} /> Delete Student
-              </h2>
-              <button onClick={() => { setStudentToDelete(null); setDeleteMessage(null); }} style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--color-text-muted)' }}>
-                <X size={20} />
-              </button>
-            </div>
-            
-            <p style={{ color: 'var(--color-text-muted)', marginBottom: 'var(--spacing-6)', fontSize: '0.875rem' }}>
-              Are you sure you want to delete the student <strong>{studentToDelete.name} ({studentToDelete.register_number?.toUpperCase()})</strong>? This action cannot be undone and will remove all their data including submissions and history.
-            </p>
 
-            {deleteMessage && (
-              <div style={{ padding: 'var(--spacing-3)', borderRadius: 'var(--radius-md)', marginBottom: 'var(--spacing-4)', fontSize: '0.875rem', backgroundColor: deleteMessage.type === 'success' ? 'var(--color-status-good-bg)' : 'var(--color-status-critical-bg)', color: deleteMessage.type === 'success' ? 'var(--color-status-good)' : 'var(--color-status-critical)', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                {deleteMessage.type === 'success' ? <CheckCircle size={16} /> : <AlertTriangle size={16} />}
-                {deleteMessage.text}
-              </div>
-            )}
-
-            <div style={{ display: 'flex', justifyContent: 'flex-end', gap: 'var(--spacing-3)' }}>
-              <button type="button" className="btn btn-outline" onClick={() => setStudentToDelete(null)} disabled={isDeleting}>
-                Cancel
-              </button>
-              <button type="button" className="btn btn-primary" style={{ backgroundColor: 'var(--color-status-critical)', borderColor: 'var(--color-status-critical)' }} onClick={handleDeleteStudent} disabled={isDeleting}>
-                {isDeleting ? 'Deleting...' : 'Delete Student'}
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

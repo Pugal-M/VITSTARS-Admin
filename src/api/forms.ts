@@ -51,12 +51,12 @@ export const formsApi = {
 
     const stats = {
       total: forms.length,
-      active: forms.filter(f => f.status === 'published').length,
+      active: forms.filter((f: any) => f.status === 'published').length,
       scheduled: 0,
       mandatoryActive: 0,
-      pendingResponses: assignments.filter(a => ['not_started', 'in_progress'].includes(a.status)).length,
-      submitted: assignments.filter(a => a.status === 'submitted').length,
-      blockedStudents: assignments.filter(a => a.is_mandatory && ['not_started', 'in_progress'].includes(a.status)).length,
+      pendingResponses: assignments.filter((a: any) => ['not_started', 'in_progress'].includes(a.status)).length,
+      submitted: assignments.filter((a: any) => a.status === 'submitted').length,
+      blockedStudents: assignments.filter((a: any) => a.is_mandatory && ['not_started', 'in_progress'].includes(a.status)).length,
       overdue: 0, // Would need more complex date logic
     };
 

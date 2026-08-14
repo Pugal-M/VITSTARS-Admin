@@ -73,9 +73,27 @@ export default function Attendance() {
           <h1>Attendance Tracking</h1>
           <p style={{ color: 'var(--color-text-muted)', marginTop: '-1.25rem' }}>Monitor student attendance and identify risks</p>
         </div>
-        <div style={{ display: 'flex', gap: 'var(--spacing-3)' }}>
-          <button className="btn btn-outline" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <Filter size={16} /> Filters
+        <div style={{ display: 'flex', gap: 'var(--spacing-3)', alignItems: 'center' }}>
+          <select 
+            className="input-field" 
+            style={{ width: '250px', padding: '6px', fontSize: '13px', cursor: 'pointer' }}
+            defaultValue=""
+          >
+            <option value="" disabled>-- Choose Semester --</option>
+            <option value="fall26">Fall Sem 26-27</option>
+            <option value="sum24">Summer Semester 2024-25</option>
+            <option value="win24">Winter Semester 2024-25</option>
+            <option value="fall24">Fall Semester 2024-25</option>
+            <option value="sum23">Summer Semester 2023-24</option>
+            <option value="tri3-6-23">Tri Semester III & VI 2023-24</option>
+            <option value="win23">Winter Semester 2023-24</option>
+            <option value="tri2-5-23">Tri Semester II & V 2023-24</option>
+            <option value="tri1-4-23">Tri Semester I & IV 2023-24</option>
+            <option value="sum22">Summer Semester 2022-23</option>
+            <option value="fall23">Fall Semester 2023-24</option>
+          </select>
+          <button className="btn btn-outline" style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '6px 12px' }}>
+            <Filter size={16} />
           </button>
         </div>
       </div>

@@ -223,8 +223,28 @@ export default function Student360() {
                       </div>
                     ))}
                     
+                    {family.siblings && family.siblings.length > 0 && (
+                      <div style={{ marginTop: '0.5rem', borderTop: '1px solid var(--color-border)', paddingTop: '1rem' }}>
+                        <h4 style={{ margin: '0 0 1rem 0', fontSize: '1rem', color: 'var(--color-text-main)' }}>Siblings</h4>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                          {family.siblings.map((sibling: any, i: number) => (
+                            <div key={`sib-${i}`} style={{ backgroundColor: 'var(--color-bg-app)', padding: '1rem', borderRadius: 'var(--radius-md)' }}>
+                              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.5rem' }}>
+                                <span style={{ color: 'var(--color-text-muted)' }}>Name</span>
+                                <span style={{ fontWeight: 600 }}>{sibling.name}</span>
+                              </div>
+                              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+                                <span style={{ color: 'var(--color-text-muted)' }}>Occupation</span>
+                                <span style={{ fontWeight: 600 }}>{sibling.occupation || 'N/A'}</span>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                    
                     {family.family_income && (
-                      <div style={{ display: 'flex', justifyContent: 'space-between', borderTop: '1px solid var(--color-border)', paddingTop: '1rem' }}>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', borderTop: '1px solid var(--color-border)', paddingTop: '1rem', marginTop: '0.5rem' }}>
                         <span style={{ color: 'var(--color-text-muted)', fontWeight: 500 }}>Family Income</span>
                         <span style={{ fontWeight: 600 }}>{family.family_income}</span>
                       </div>
