@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabase';
-import { Search, Filter, Download, MoreVertical, Plus, X, UserPlus, CheckCircle, AlertTriangle, Trash2 } from 'lucide-react';
+import { Search, Filter, Download, Plus, X, UserPlus, CheckCircle, AlertTriangle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 export default function Students() {

@@ -25,11 +25,11 @@ export default function Attendance() {
 
         let mergedRecords: any[] = [];
 
-        (students || []).forEach(student => {
-           const formalRecords = (attData || []).filter(r => r.student_id === student.id);
+        (students || []).forEach((student: any) => {
+           const formalRecords = (attData || []).filter((r: any) => r.student_id === student.id);
            
            if (formalRecords.length > 0) {
-              formalRecords.forEach(r => {
+              formalRecords.forEach((r: any) => {
                  mergedRecords.push({
                    id: r.id,
                    student_id: student.id,

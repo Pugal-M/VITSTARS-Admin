@@ -25,8 +25,8 @@ export default function Academic() {
 
         let mergedRecords: any[] = [];
 
-        (students || []).forEach(student => {
-           const formalRecords = (acadData || []).filter(r => r.student_id === student.id);
+        (students || []).forEach((student: any) => {
+           const formalRecords = (acadData || []).filter((r: any) => r.student_id === student.id);
            
            if (formalRecords.length > 0) {
               const latest = formalRecords[0];

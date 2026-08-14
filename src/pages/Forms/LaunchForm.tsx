@@ -95,7 +95,7 @@ export default function LaunchForm() {
       
       // 4. Assign form to all students
       if (students && students.length > 0) {
-        const assignments = students.map(student => ({
+        const assignments = students.map((student: any) => ({
           form_id: newForm.id,
           student_id: student.id,
           is_mandatory: form.is_mandatory,

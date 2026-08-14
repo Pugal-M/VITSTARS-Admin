@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabase';
-import { Zap, AlertTriangle, UserCheck, Clock } from 'lucide-react';
+import { Zap, AlertTriangle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Dashboard() {
