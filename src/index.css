@@ -430,3 +430,143 @@ h3 { font-size: 1rem; font-weight: 600; margin-bottom: var(--spacing-2); }
   color: var(--color-primary);
   border-bottom-color: var(--color-primary);
 }
+
+/* Mobile Toggle */
+.mobile-menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 4px;
+}
+
+/* -----------------------------
+ * Responsive Layout (Mobile)
+ * ----------------------------- */
+@media (max-width: 768px) {
+  .mobile-menu-toggle {
+    display: block;
+  }
+  
+  .vtop-logo img {
+    height: 30px;
+  }
+
+  .vtop-logo h1 {
+    font-size: 18px;
+    display: none; /* Hide full title on small screens to save space */
+  }
+
+  .header-quick-links {
+    display: none !important;
+  }
+  
+  .header-campus-btn {
+    display: none !important;
+  }
+
+  .header-user-name {
+    display: none;
+  }
+
+  /* Navbar as Sidebar on Mobile */
+  .vtop-navbar {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 50px;
+    left: -100%;
+    width: 250px;
+    height: calc(100vh - 50px);
+    background: #ffffff;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    border-right: 2px solid #e0e0e0;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  }
+
+  .vtop-navbar.mobile-open {
+    left: 0;
+  }
+
+  .vtop-nav-item {
+    border-bottom: 1px solid #f0f0f0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .vtop-nav-item > span {
+    width: 100%;
+  }
+
+  .nav-separator {
+    display: none !important;
+  }
+
+  /* Mega Menu on Mobile */
+  .mega-menu {
+    position: static;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: none;
+    padding: 10px 0;
+    gap: 15px;
+    border-top: none;
+    animation: none;
+  }
+
+  .mega-menu-title {
+    display: none;
+  }
+
+  .mega-menu-column {
+    padding-left: 15px;
+  }
+
+  /* Layout and Grids */
+  .responsive-flex {
+    flex-direction: column !important;
+  }
+  .responsive-flex-col {
+    flex: 1 1 100% !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .main-content {
+    padding: var(--spacing-3);
+  }
+
+  .grid-cols-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-3);
+  }
+
+  .stat-card {
+    padding: var(--spacing-3);
+  }
+
+  /* Card and Tables */
+  .card {
+    padding: var(--spacing-4);
+  }
+
+  .table-container {
+    overflow-x: auto;
+    margin-right: -var(--spacing-4);
+    margin-left: -var(--spacing-4);
+    padding-right: var(--spacing-4);
+    padding-left: var(--spacing-4);
+  }
+}
+

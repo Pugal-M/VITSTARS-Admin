@@ -195,10 +195,10 @@ export default function Dashboard() {
   }, []);
 
   return (
-    <div style={{ display: 'flex', gap: '20px', alignItems: 'flex-start' }}>
+    <div className="responsive-flex" style={{ display: 'flex', gap: '20px', alignItems: 'flex-start' }}>
       
       {/* Left Column: Pending Approvals */}
-      <div style={{ flex: '0 0 250px', backgroundColor: 'white', border: '1px solid #e0e0e0' }}>
+      <div className="responsive-flex-col" style={{ flex: '0 0 250px', backgroundColor: 'white', border: '1px solid #e0e0e0' }}>
         <Link to="/leave" style={{ textDecoration: 'none' }}>
           <h3 style={{ color: '#8a0000', padding: '15px', margin: 0, fontSize: '14px', borderBottom: '2px solid #e0e0e0', display: 'flex', justifyContent: 'space-between' }}>
             Pending Approvals <span>⇨</span>
@@ -235,7 +235,7 @@ export default function Dashboard() {
       </div>
 
       {/* Middle Column: Academic Risks */}
-      <div style={{ flex: 1, backgroundColor: 'white', border: '1px solid #e0e0e0', display: 'flex', flexDirection: 'column' }}>
+      <div className="responsive-flex-col" style={{ flex: 1, backgroundColor: 'white', border: '1px solid #e0e0e0', display: 'flex', flexDirection: 'column' }}>
         
         {/* Top Half: Arrears */}
         <div style={{ borderBottom: '2px solid #e0e0e0' }}>
@@ -338,7 +338,7 @@ export default function Dashboard() {
       </div>
 
       {/* Right Column: Attendance */}
-      <div style={{ flex: '0 0 450px', backgroundColor: 'white', border: '1px solid #e0e0e0' }}>
+      <div className="responsive-flex-col" style={{ flex: '0 0 450px', backgroundColor: 'white', border: '1px solid #e0e0e0' }}>
         <Link to="/attendance" style={{ textDecoration: 'none' }}>
           <h3 style={{ color: '#8a0000', padding: '15px', margin: 0, fontSize: '13px', borderBottom: '2px solid #e0e0e0', display: 'flex', justifyContent: 'space-between' }}>
             Critical Attendance Shortages <span>⇨</span>
