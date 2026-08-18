@@ -90,6 +90,7 @@ export default function VtopNavbar() {
             <div className="mega-menu-column">
               <h4><Book size={14} color="#f472b6" /> Leave Management</h4>
               <NavLink to="/leave" className="mega-menu-link"><LinkIcon /> STARS Leave Approval</NavLink>
+              <NavLink to="/late-night-leave" className="mega-menu-link"><LinkIcon /> Late night Leave approval</NavLink>
               <NavLink to="/outing" className="mega-menu-link"><LinkIcon /> Outing Approval</NavLink>
               <NavLink to="/hostel" className="mega-menu-link"><LinkIcon /> Hostel Attendance</NavLink>
             </div>

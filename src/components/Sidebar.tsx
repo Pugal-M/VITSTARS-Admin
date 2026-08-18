@@ -42,12 +42,14 @@ export default function Sidebar() {
       items: [
         { to: '/grade-history', icon: <FileText size={18} />, label: 'Grade History' },
         { to: '/mark-details', icon: <ClipboardList size={18} />, label: 'Mark Details' },
+        { to: '/arrears', icon: <FileText size={18} />, label: 'Arrear History' },
       ]
     },
     {
       title: 'Leave Management',
       items: [
         { to: '/leave', icon: <PlaneTakeoff size={18} />, label: 'STARS Leave Approval' },
+        { to: '/late-night-leave', icon: <PlaneTakeoff size={18} />, label: 'Late night Leave approval' },
         { to: '/outing', icon: <PlaneTakeoff size={18} />, label: 'Outing Approval' },
         { to: '/hostel', icon: <Building size={18} />, label: 'Hostel Attendance' },
       ]

@@ -8,6 +8,7 @@ import Student360 from './pages/Student360';
 import Academic from './pages/Academic';
 import Attendance from './pages/Attendance';
 import LeaveRequests from './pages/LeaveRequests';
+import LateNightLeaveApproval from './pages/LateNightLeaveApproval';
 import OutingRequests from './pages/OutingRequests';
 import Hostel from './pages/Hostel';
 import Mentoring from './pages/Mentoring';
@@ -18,6 +19,7 @@ import Settings from './pages/Settings';
 import AuditLog from './pages/AuditLog';
 import GradeHistory from './pages/GradeHistory';
 import MarkDetails from './pages/MarkDetails';
+import Arrears from './pages/Arrears';
 
 // Forms Module
 import FormsDashboard from './pages/Forms/FormsDashboard';
@@ -39,7 +41,9 @@ function App() {
             <Route path="attendance" element={<Attendance />} />
             <Route path="grade-history" element={<GradeHistory />} />
             <Route path="mark-details" element={<MarkDetails />} />
+            <Route path="arrears" element={<Arrears />} />
             <Route path="leave" element={<LeaveRequests />} />
+            <Route path="late-night-leave" element={<LateNightLeaveApproval />} />
             <Route path="outing" element={<OutingRequests />} />
             <Route path="hostel" element={<Hostel />} />
             <Route path="mentoring" element={<Mentoring />} />
