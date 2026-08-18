@@ -14,48 +14,43 @@ export const formsApi = {
           title: 'Hostel Outing Consent Form',
           description: 'Mandatory consent form for upcoming holiday outing. Requires parent approval details.',
           status: 'published',
-          form_type: 'SURVEY',
+          allow_resubmission: false,
           deadline: '2026-09-01T23:59:59Z',
           deadline_policy: 'STRICT_BLOCK',
           created_at: new Date().toISOString(),
-          updated_at: new Date().toISOString(),
-          created_by: 'admin'
+          updated_at: new Date().toISOString()
         },
         {
           id: 'form-2',
           title: 'Course Feedback - Fall Sem 26-27',
           description: 'End of semester course feedback for all registered courses.',
           status: 'published',
-          form_type: 'EVALUATION',
+          allow_resubmission: false,
           deadline: '2026-08-30T23:59:59Z',
           deadline_policy: 'ALLOW_LATE',
           created_at: new Date().toISOString(),
-          updated_at: new Date().toISOString(),
-          created_by: 'admin'
+          updated_at: new Date().toISOString()
         },
         {
           id: 'form-3',
           title: 'Alumni Mentorship Preferences',
           description: 'For pre-final year students to select their preferred alumni mentors.',
           status: 'draft',
-          form_type: 'SURVEY',
-          deadline: null,
+          allow_resubmission: false,
           deadline_policy: 'ALLOW_LATE',
           created_at: new Date().toISOString(),
-          updated_at: new Date().toISOString(),
-          created_by: 'admin'
+          updated_at: new Date().toISOString()
         },
         {
           id: 'form-4',
           title: 'Library Fines Declaration',
           description: 'Mandatory declaration regarding outstanding library fines before hall ticket generation.',
           status: 'closed',
-          form_type: 'SURVEY',
+          allow_resubmission: false,
           deadline: '2026-07-15T23:59:59Z',
           deadline_policy: 'STRICT_BLOCK',
           created_at: new Date().toISOString(),
-          updated_at: new Date().toISOString(),
-          created_by: 'admin'
+          updated_at: new Date().toISOString()
         }
       ] as Form[];
     }
